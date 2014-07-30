@@ -1,0 +1,1146 @@
+2000.01.01 01:00:23 1: Including fhem.cfg
+2000.01.01 01:00:24 2: MaxCounter is starting
+2000.01.01 01:00:25 3: telnetPort: port 7072 opened
+2000.01.01 01:00:25 3: WEB: port 8083 opened
+2000.01.01 01:00:25 3: WEBphone: port 8084 opened
+2000.01.01 01:00:25 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:26 3: ECMD opening avrRFM (protocol serial, device /dev/ttyUSB0@19200)
+2000.01.01 01:00:26 3: Can't open /dev/ttyUSB0: No such file or directory
+2000.01.01 01:00:27 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:27 1: Including ./log/fhem.save
+2000.01.01 01:00:27 0: Server started with 126 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1849)
+2000.01.01 01:00:27 0: Server shutdown
+2000.01.01 01:00:24 1: Including fhem.cfg
+2000.01.01 01:00:24 2: MaxCounter is starting
+2000.01.01 01:00:25 3: telnetPort: port 7072 opened
+2000.01.01 01:00:25 3: WEB: port 8083 opened
+2000.01.01 01:00:25 3: WEBphone: port 8084 opened
+2000.01.01 01:00:25 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:26 3: ECMD opening avrRFM (protocol serial, device /dev/ttyO1@19200)
+2000.01.01 01:00:26 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:27 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:27 1: Including ./log/fhem.save
+2000.01.01 01:00:27 0: Server started with 126 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1903)
+2000.01.01 01:00:27 0: Server shutdown
+2000.01.01 01:00:23 1: Including fhem.cfg
+2000.01.01 01:00:24 2: MaxCounter is starting
+2000.01.01 01:00:25 3: ECMD opening avrRFM (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:25 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:25 3: telnetPort: port 7072 opened
+2000.01.01 01:00:26 3: WEB: port 8083 opened
+2000.01.01 01:00:26 3: WEBphone: port 8084 opened
+2000.01.01 01:00:26 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:27 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:27 1: Including ./log/fhem.save
+2000.01.01 01:00:27 0: Server started with 125 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1907)
+2000.01.01 01:00:27 0: Server shutdown
+2000.01.01 01:00:27 1: Including fhem.cfg
+2000.01.01 01:00:28 2: MaxCounter is starting
+2000.01.01 01:00:28 3: ECMD opening avrRFM (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:28 3: ECMD setting avrRFM baudrate to 38400
+2000.01.01 01:00:28 3: ECMD device opened
+2000.01.01 01:00:22 1: Including fhem.cfg
+2000.01.01 01:00:23 2: MaxCounter is starting
+2000.01.01 01:00:23 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:24 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:24 3: telnetPort: port 7072 opened
+2000.01.01 01:00:25 3: WEB: port 8083 opened
+2000.01.01 01:00:25 3: WEBphone: port 8084 opened
+2000.01.01 01:00:25 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:26 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:26 1: Including ./log/fhem.save
+2000.01.01 01:00:26 0: Server started with 147 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1906)
+2000.01.01 01:00:26 0: Server shutdown
+2000.01.01 01:00:26 1: Including fhem.cfg
+2000.01.01 01:00:27 2: MaxCounter is starting
+2000.01.01 01:00:27 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:27 3: ECMD setting bbbAVR baudrate to 38400
+2000.01.01 01:00:27 3: ECMD device opened
+2000.01.01 01:00:29 3: telnetPort: port 7072 opened
+2000.01.01 01:00:29 3: WEB: port 8083 opened
+2000.01.01 01:00:29 3: WEBphone: port 8084 opened
+2000.01.01 01:00:29 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:30 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:30 1: Including ./log/fhem.save
+2000.01.01 01:00:30 0: Server started with 147 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2050)
+2000.01.01 01:00:22 1: Including fhem.cfg
+2000.01.01 01:00:23 2: MaxCounter is starting
+2000.01.01 01:00:23 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:23 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:24 3: telnetPort: port 7072 opened
+2000.01.01 01:00:24 3: WEB: port 8083 opened
+2000.01.01 01:00:24 3: WEBphone: port 8084 opened
+2000.01.01 01:00:24 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:25 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:25 1: Including ./log/fhem.save
+2000.01.01 01:00:25 0: Server started with 147 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1900)
+2000.01.01 01:00:25 0: Server shutdown
+2000.01.01 01:00:26 1: Including fhem.cfg
+2000.01.01 01:00:26 2: MaxCounter is starting
+2000.01.01 01:00:26 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:26 3: ECMD setting bbbAVR baudrate to 38400
+2000.01.01 01:00:26 3: ECMD device opened
+2000.01.01 01:00:20 1: Including fhem.cfg
+2000.01.01 01:00:21 2: MaxCounter is starting
+2000.01.01 01:00:22 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:22 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:22 3: telnetPort: port 7072 opened
+2000.01.01 01:00:23 3: WEB: port 8083 opened
+2000.01.01 01:00:23 3: WEBphone: port 8084 opened
+2000.01.01 01:00:23 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:24 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:24 1: Including ./log/fhem.save
+2000.01.01 01:00:24 0: Server started with 146 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1905)
+2000.01.01 01:00:24 0: Server shutdown
+2000.01.01 01:00:25 1: Including fhem.cfg
+2000.01.01 01:00:25 2: MaxCounter is starting
+2000.01.01 01:00:25 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:25 3: ECMD setting bbbAVR baudrate to 38400
+2000.01.01 01:00:25 3: ECMD device opened
+2000.01.01 01:00:25 1: Including fhem.cfg
+2000.01.01 01:00:26 2: MaxCounter is starting
+2000.01.01 01:00:26 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:27 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:27 3: telnetPort: port 7072 opened
+2000.01.01 01:00:28 3: WEB: port 8083 opened
+2000.01.01 01:00:28 3: WEBphone: port 8084 opened
+2000.01.01 01:00:28 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:29 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:29 1: Including ./log/fhem.save
+2000.01.01 01:00:29 0: Server started with 146 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1893)
+2000.01.01 01:00:29 0: Server shutdown
+2000.01.01 01:00:30 1: Including fhem.cfg
+2000.01.01 01:00:30 2: MaxCounter is starting
+2000.01.01 01:00:30 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:30 3: ECMD setting bbbAVR baudrate to 38400
+2000.01.01 01:00:30 3: ECMD device opened
+2000.01.01 01:00:32 3: telnetPort: port 7072 opened
+2000.01.01 01:00:33 3: WEB: port 8083 opened
+2000.01.01 01:00:33 3: WEBphone: port 8084 opened
+2000.01.01 01:00:33 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:33 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:33 1: Including ./log/fhem.save
+2000.01.01 01:00:33 0: Server started with 146 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2049)
+2000.01.01 01:00:24 1: Including fhem.cfg
+2000.01.01 01:00:25 2: MaxCounter is starting
+2000.01.01 01:00:25 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:26 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:26 3: telnetPort: port 7072 opened
+2000.01.01 01:00:27 3: WEB: port 8083 opened
+2000.01.01 01:00:27 3: WEBphone: port 8084 opened
+2000.01.01 01:00:27 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:28 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:28 1: Including ./log/fhem.save
+2000.01.01 01:00:28 0: Server started with 146 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1850)
+2000.01.01 01:00:28 0: Server shutdown
+2000.01.01 01:00:29 1: Including fhem.cfg
+2000.01.01 01:00:29 2: MaxCounter is starting
+2000.01.01 01:00:29 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:30 3: ECMD setting bbbAVR baudrate to 38400
+2000.01.01 01:00:30 3: ECMD device opened
+2000.01.01 01:02:29 1: Including fhem.cfg
+2000.01.01 01:02:30 2: MaxCounter is starting
+2000.01.01 01:02:30 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:02:30 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:02:31 3: telnetPort: port 7072 opened
+2000.01.01 01:02:31 3: WEB: port 8083 opened
+2000.01.01 01:02:31 3: WEBphone: port 8084 opened
+2000.01.01 01:02:31 3: WEBtablet: port 8085 opened
+2000.01.01 01:02:32 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:02:32 1: Including ./log/fhem.save
+2000.01.01 01:02:32 0: Server started with 146 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1975)
+2000.01.01 01:02:33 0: Server shutdown
+2000.01.01 01:02:33 1: Including fhem.cfg
+2000.01.01 01:02:34 2: MaxCounter is starting
+2000.01.01 01:02:34 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:02:34 3: ECMD setting bbbAVR baudrate to 38400
+2000.01.01 01:02:34 3: ECMD device opened
+2000.01.01 01:01:51 1: Including fhem.cfg
+2000.01.01 01:01:52 2: MaxCounter is starting
+2000.01.01 01:01:52 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:53 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:53 3: telnetPort: port 7072 opened
+2000.01.01 01:01:54 3: WEB: port 8083 opened
+2000.01.01 01:01:54 3: WEBphone: port 8084 opened
+2000.01.01 01:01:54 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:54 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:54 1: Including ./log/fhem.save
+2000.01.01 01:01:55 0: Server started with 146 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1988)
+2000.01.01 01:01:55 0: Server shutdown
+2000.01.01 01:01:55 1: Including fhem.cfg
+2000.01.01 01:01:56 2: MaxCounter is starting
+2000.01.01 01:01:56 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:56 3: ECMD setting bbbAVR baudrate to 38400
+2000.01.01 01:01:56 3: ECMD device opened
+2000.01.01 01:01:58 3: telnetPort: port 7072 opened
+2000.01.01 01:01:58 3: WEB: port 8083 opened
+2000.01.01 01:01:58 3: WEBphone: port 8084 opened
+2000.01.01 01:01:58 3: WEBtablet: port 8085 opened
+2000.01.01 01:02:00 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:02:00 1: Including ./log/fhem.save
+2000.01.01 01:02:00 0: Server started with 146 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2133)
+2000.01.01 01:01:56 1: Including fhem.cfg
+2000.01.01 01:01:57 2: MaxCounter is starting
+2000.01.01 01:01:57 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:57 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:58 3: telnetPort: port 7072 opened
+2000.01.01 01:01:58 3: WEB: port 8083 opened
+2000.01.01 01:01:58 3: WEBphone: port 8084 opened
+2000.01.01 01:01:58 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:59 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:59 1: Including ./log/fhem.save
+2000.01.01 01:01:59 0: Server started with 146 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1971)
+2000.01.01 01:02:00 0: Server shutdown
+2000.01.01 01:02:00 1: Including fhem.cfg
+2000.01.01 01:02:01 2: MaxCounter is starting
+2000.01.01 01:02:01 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:02:01 3: ECMD setting bbbAVR baudrate to 38400
+2000.01.01 01:02:01 3: ECMD device opened
+2000.01.01 01:02:03 3: telnetPort: port 7072 opened
+2000.01.01 01:02:03 3: WEB: port 8083 opened
+2000.01.01 01:02:03 3: WEBphone: port 8084 opened
+2000.01.01 01:02:03 3: WEBtablet: port 8085 opened
+2000.01.01 01:02:05 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:02:05 1: Including ./log/fhem.save
+2000.01.01 01:02:05 0: Server started with 146 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2128)
+2000.01.01 01:01:52 1: Including fhem.cfg
+2000.01.01 01:01:52 2: MaxCounter is starting
+2000.01.01 01:01:52 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:53 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:53 3: telnetPort: port 7072 opened
+2000.01.01 01:01:54 3: WEB: port 8083 opened
+2000.01.01 01:01:54 3: WEBphone: port 8084 opened
+2000.01.01 01:01:54 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:55 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:55 1: Including ./log/fhem.save
+2000.01.01 01:01:55 0: Server started with 146 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1968)
+2000.01.01 01:01:55 0: Server shutdown
+2000.01.01 01:02:09 1: Including fhem.cfg
+2000.01.01 01:02:10 2: MaxCounter is starting
+2000.01.01 01:02:10 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:02:10 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:02:11 3: telnetPort: port 7072 opened
+2000.01.01 01:02:11 3: WEB: port 8083 opened
+2000.01.01 01:02:11 3: WEBphone: port 8084 opened
+2000.01.01 01:02:11 3: WEBtablet: port 8085 opened
+2000.01.01 01:02:12 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:02:12 1: Including ./log/fhem.save
+2000.01.01 01:02:13 0: Server started with 146 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1931)
+2000.01.01 01:02:13 0: Server shutdown
+2000.01.01 01:02:17 1: Including fhem.cfg
+2000.01.01 01:02:17 2: MaxCounter is starting
+2000.01.01 01:02:18 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:02:18 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:02:18 3: telnetPort: port 7072 opened
+2000.01.01 01:02:19 3: WEB: port 8083 opened
+2000.01.01 01:02:19 3: WEBphone: port 8084 opened
+2000.01.01 01:02:19 3: WEBtablet: port 8085 opened
+2000.01.01 01:02:20 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:02:20 1: Including ./log/fhem.save
+2000.01.01 01:02:20 0: Server started with 146 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1922)
+2000.01.01 01:02:21 0: Server shutdown
+2000.01.01 01:00:24 1: Including fhem.cfg
+2000.01.01 01:00:25 2: MaxCounter is starting
+2000.01.01 01:00:25 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:25 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:27 3: telnetPort: port 7072 opened
+2000.01.01 01:00:27 3: WEB: port 8083 opened
+2000.01.01 01:00:27 3: WEBphone: port 8084 opened
+2000.01.01 01:00:27 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:29 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:29 1: Including ./log/fhem.save
+2000.01.01 01:00:30 0: Server started with 146 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1960)
+2000.01.01 01:01:45 1: Including fhem.cfg
+2000.01.01 01:01:46 2: MaxCounter is starting
+2000.01.01 01:01:46 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:46 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:47 3: telnetPort: port 7072 opened
+2000.01.01 01:01:49 3: WEB: port 8083 opened
+2000.01.01 01:01:49 3: WEBphone: port 8084 opened
+2000.01.01 01:01:49 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:50 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:50 1: Including ./log/fhem.save
+2000.01.01 01:01:51 0: Server started with 147 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1963)
+2000.01.01 01:01:55 0: Server shutdown
+2000.01.01 01:02:11 1: Including fhem.cfg
+2000.01.01 01:02:11 2: MaxCounter is starting
+2000.01.01 01:02:12 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:02:12 3: ECMD setting bbbAVR baudrate to 38400
+2000.01.01 01:02:12 3: ECMD device opened
+2000.01.01 01:02:14 3: telnetPort: port 7072 opened
+2000.01.01 01:02:14 3: WEB: port 8083 opened
+2000.01.01 01:02:14 3: WEBphone: port 8084 opened
+2000.01.01 01:02:14 3: WEBtablet: port 8085 opened
+2000.01.01 01:02:15 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:02:15 1: Including ./log/fhem.save
+2000.01.01 01:02:15 0: Server started with 147 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2532)
+2000.01.01 01:03:19 3: off_LaP return value: Actoff 
+2000.01.01 01:03:19 3: off_KW3 return value: Actoff 0
+2000.01.01 01:03:19 3: off_ZiP return value: Actoff 0
+2000.01.01 01:04:15 3: value OK
+2000.01.01 01:04:18 3: off_LaP return value: Actoff 0
+2000.01.01 01:04:19 3: off_KW3 return value: Actoff 0
+2000.01.01 01:04:19 3: T 20.8
+2000.01.01 01:04:24 3: off_ZiP return value: Actoff 0
+2000.01.01 01:04:30 3: T 30.0
+2000.01.01 01:04:36 3: T 30.0
+2000.01.01 01:04:45 3: T 27.8
+2000.01.01 01:04:50 3: T 28.3
+2000.01.01 01:04:55 3: T 26.9
+2000.01.01 01:05:20 3: off_LaP return value: Actoff 0
+2000.01.01 01:05:20 3: off_KW3 return value: Actoff 0
+2000.01.01 01:05:29 3: off_ZiP return value: Actoff 0
+2000.01.01 01:05:40 3: T 15.6
+2000.01.01 01:06:15 3: value OK
+2000.01.01 01:06:22 3: off_LaP return value: Actoff 0
+2000.01.01 01:06:22 3: off_KW3 return value: Actoff 0
+2000.01.01 01:06:24 3: T 20.8
+2000.01.01 01:06:34 3: off_ZiP return value: Actoff 0
+2000.01.01 01:06:45 3: T 29.9
+2000.01.01 01:06:57 3: T 29.8
+2000.01.01 01:07:15 3: T 27.4
+2000.01.01 01:07:24 3: off_LaP return value: Actoff 0
+2000.01.01 01:07:24 3: off_KW3 return value: Actoff 0
+2000.01.01 01:07:25 3: T 28.4
+2000.01.01 01:07:35 3: T 26.8
+2000.01.01 01:07:39 3: off_ZiP return value: Actoff 0
+2000.01.01 01:08:15 3: value OK
+2000.01.01 01:08:26 3: off_LaP return value: Actoff 0
+2000.01.01 01:08:26 3: off_KW3 return value: Actoff 0
+2000.01.01 01:08:29 3: T 20.8
+2000.01.01 01:08:44 3: off_ZiP return value: Actoff 0
+2000.01.01 01:09:00 3: T 29.9
+2000.01.01 01:09:05 3: T 15.6
+2000.01.01 01:09:18 3: T 29.8
+2000.01.01 01:09:28 3: off_LaP return value: Actoff 0
+2000.01.01 01:09:28 3: off_KW3 return value: Actoff 0
+2000.01.01 01:09:45 3: T 27.1
+2000.01.01 01:09:49 3: off_ZiP return value: Actoff 0
+2000.01.01 01:10:00 3: T 28.3
+2000.01.01 01:10:15 3: value OK
+2000.01.01 01:10:15 3: T 26.8
+2000.01.01 01:10:30 3: off_LaP return value: Actoff 0
+2000.01.01 01:10:30 3: off_KW3 return value: Actoff 0
+2000.01.01 01:10:34 3: T 20.8
+2000.01.01 01:10:54 3: off_ZiP return value: Actoff 0
+2000.01.01 01:11:15 3: T 29.8
+2000.01.01 01:11:32 3: off_LaP return value: Actoff 0
+2000.01.01 01:11:32 3: off_KW3 return value: Actoff 0
+2000.01.01 01:11:39 3: T 29.8
+2000.01.01 01:11:59 3: off_ZiP return value: Actoff 0
+2000.01.01 01:12:15 3: value OK
+2000.01.01 01:12:15 3: T 27.0
+2000.01.01 01:12:30 3: T 15.6
+2000.01.01 01:12:34 3: off_LaP return value: Actoff 0
+2000.01.01 01:12:34 3: off_KW3 return value: Actoff 0
+2000.01.01 01:12:35 3: T 28.3
+2000.01.01 01:12:39 3: T 20.8
+2000.01.01 01:12:55 3: T 26.8
+2000.01.01 01:13:04 3: off_ZiP return value: Actoff 0
+2000.01.01 01:13:30 3: T 29.8
+2000.01.01 01:13:36 3: off_LaP return value: Actoff 0
+2000.01.01 01:13:36 3: off_KW3 return value: Actoff 0
+2000.01.01 01:14:00 3: T 29.8
+2000.01.01 01:14:09 3: off_ZiP return value: Actoff 0
+2000.01.01 01:14:15 3: value OK
+2000.01.01 01:14:38 3: off_LaP return value: Actoff 0
+2000.01.01 01:14:38 3: off_KW3 return value: Actoff 0
+2000.01.01 01:14:44 3: T 20.9
+2000.01.01 01:14:45 3: T 26.8
+2000.01.01 01:15:10 3: T 28.3
+2000.01.01 01:15:14 3: off_ZiP return value: Actoff 0
+2000.01.01 01:15:35 3: T 26.8
+2000.01.01 01:15:40 3: off_LaP return value: Actoff 0
+2000.01.01 01:15:40 3: off_KW3 return value: Actoff 0
+2000.01.01 01:15:45 3: T 29.8
+2000.01.01 01:15:55 3: T 15.6
+2000.01.01 01:16:15 3: value OK
+2000.01.01 01:16:19 3: off_ZiP return value: Actoff 0
+2000.01.01 01:16:21 3: T 29.8
+2000.01.01 01:16:37 0: Server shutdown
+2000.01.01 01:02:39 1: Including fhem.cfg
+2000.01.01 01:02:40 2: MaxCounter is starting
+2000.01.01 01:02:40 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:02:41 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:02:42 3: telnetPort: port 7072 opened
+2000.01.01 01:02:43 3: WEB: port 8083 opened
+2000.01.01 01:02:43 3: WEBphone: port 8084 opened
+2000.01.01 01:02:43 3: WEBtablet: port 8085 opened
+2000.01.01 01:02:45 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:02:45 1: Including ./log/fhem.save
+2000.01.01 01:02:45 0: Server started with 147 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2012)
+2000.01.01 01:02:48 0: Server shutdown
+2000.01.01 01:03:04 1: Including fhem.cfg
+2000.01.01 01:03:05 2: MaxCounter is starting
+2000.01.01 01:03:05 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:03:05 3: ECMD setting bbbAVR baudrate to 38400
+2000.01.01 01:03:05 3: ECMD device opened
+2000.01.01 01:03:07 3: telnetPort: port 7072 opened
+2000.01.01 01:03:07 3: WEB: port 8083 opened
+2000.01.01 01:03:07 3: WEBphone: port 8084 opened
+2000.01.01 01:03:07 3: WEBtablet: port 8085 opened
+2000.01.01 01:03:08 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:03:08 1: Including ./log/fhem.save
+2000.01.01 01:03:08 0: Server started with 147 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2562)
+2000.01.01 01:04:12 3: off_LaP return value: Actoff 
+2000.01.01 01:04:13 3: off_KW3 return value: Actoff 0
+2000.01.01 01:04:13 3: off_ZiP return value: Actoff 0
+2000.01.01 01:05:08 3: value OK
+2000.01.01 01:05:11 3: off_LaP return value: Actoff 0
+2000.01.01 01:05:12 3: off_KW3 return value: Actoff 0
+2000.01.01 01:05:12 3: T 20.8
+2000.01.01 01:05:17 3: off_ZiP return value: Actoff 0
+2000.01.01 01:05:23 3: T 29.7
+2000.01.01 01:05:29 3: T 29.6
+2000.01.01 01:05:38 3: T 27.5
+2000.01.01 01:05:43 3: T 28.3
+2000.01.01 01:05:48 3: T 26.8
+2000.01.01 01:06:13 3: off_LaP return value: Actoff 0
+2000.01.01 01:06:14 3: off_KW3 return value: Actoff 0
+2000.01.01 01:06:22 3: off_ZiP return value: Actoff 0
+2000.01.01 01:06:33 3: T 15.5
+2000.01.01 01:07:08 3: value OK
+2000.01.01 01:07:15 3: off_LaP return value: Actoff 0
+2000.01.01 01:07:16 3: off_KW3 return value: Actoff 0
+2000.01.01 01:07:18 3: T 20.8
+2000.01.01 01:07:27 3: off_ZiP return value: Actoff 0
+2000.01.01 01:07:38 3: T 29.8
+2000.01.01 01:07:50 3: T 29.5
+2000.01.01 01:08:08 3: T 26.9
+2000.01.01 01:08:17 3: off_LaP return value: Actoff 0
+2000.01.01 01:08:18 3: off_KW3 return value: Actoff 0
+2000.01.01 01:08:18 3: T 28.3
+2000.01.01 01:08:28 3: T 26.8
+2000.01.01 01:08:32 3: off_ZiP return value: Actoff 0
+2000.01.01 01:09:08 3: value OK
+2000.01.01 01:09:20 3: off_LaP return value: Actoff 0
+2000.01.01 01:09:20 3: off_KW3 return value: Actoff 0
+2000.01.01 01:09:23 3: T 21.0
+2000.01.01 01:09:38 3: off_ZiP return value: Actoff 0
+2000.01.01 01:09:53 3: T 29.7
+2000.01.01 01:09:58 3: T 15.5
+2000.01.01 01:10:11 3: T 29.5
+2000.01.01 01:10:21 3: off_LaP return value: Actoff 0
+2000.01.01 01:10:22 3: off_KW3 return value: Actoff 0
+2000.01.01 01:10:38 3: T 26.8
+2000.01.01 01:10:42 3: off_ZiP return value: Actoff 0
+2000.01.01 01:10:53 3: T 28.3
+2000.01.01 01:11:08 3: value OK
+2000.01.01 01:11:08 3: T 26.7
+2000.01.01 01:11:23 3: off_LaP return value: Actoff 0
+2000.01.01 01:11:24 3: off_KW3 return value: Actoff 0
+2000.01.01 01:11:28 3: T 21.0
+2000.01.01 01:11:47 3: off_ZiP return value: Actoff 0
+2000.01.01 01:12:08 3: T 29.6
+2000.01.01 01:12:25 3: off_LaP return value: Actoff 0
+2000.01.01 01:12:26 3: off_KW3 return value: Actoff 0
+2000.01.01 01:12:32 3: T 29.5
+2000.01.01 01:12:52 3: off_ZiP return value: Actoff 0
+2000.01.01 01:13:08 3: value OK
+2000.01.01 01:13:08 3: T 26.7
+2000.01.01 01:13:23 3: T 15.5
+2000.01.01 01:13:27 3: off_LaP return value: Actoff 0
+2000.01.01 01:13:28 3: off_KW3 return value: Actoff 0
+2000.01.01 01:13:28 3: T 28.3
+2000.01.01 01:13:33 3: T 20.9
+2000.01.01 01:13:48 3: T 26.7
+2000.01.01 01:13:57 3: off_ZiP return value: Actoff 0
+2000.01.01 01:14:24 3: T 29.6
+2000.01.01 01:14:29 3: off_LaP return value: Actoff 0
+2000.01.01 01:14:30 3: off_KW3 return value: Actoff 0
+2000.01.01 01:14:53 3: T 29.5
+2000.01.01 01:15:02 3: off_ZiP return value: Actoff 0
+2000.01.01 01:15:08 3: value OK
+2000.01.01 01:15:31 3: off_LaP return value: Actoff 0
+2000.01.01 01:15:32 3: off_KW3 return value: Actoff 0
+2000.01.01 01:15:38 3: T 20.8
+2000.01.01 01:15:38 3: T 26.6
+2000.01.01 01:16:03 3: T 28.3
+2000.01.01 01:16:07 3: off_ZiP return value: Actoff 0
+2000.01.01 01:16:28 3: T 26.7
+2000.01.01 01:16:33 3: off_LaP return value: Actoff 0
+2000.01.01 01:16:34 3: off_KW3 return value: Actoff 0
+2000.01.01 01:16:38 3: T 29.6
+2000.01.01 01:16:48 3: T 15.5
+2000.01.01 01:17:08 3: value OK
+2000.01.01 01:17:12 3: off_ZiP return value: Actoff 0
+2000.01.01 01:17:14 3: T 29.5
+2000.01.01 01:17:35 3: off_LaP return value: Actoff 0
+2000.01.01 01:17:36 3: off_KW3 return value: Actoff 0
+2000.01.01 01:17:43 3: T 20.8
+2000.01.01 01:18:08 3: T 26.6
+2000.01.01 01:18:17 3: off_ZiP return value: Actoff 0
+2000.01.01 01:18:38 3: off_LaP return value: Actoff 0
+2000.01.01 01:18:38 3: off_KW3 return value: Actoff 0
+2000.01.01 01:18:38 3: T 28.2
+2000.01.01 01:18:53 3: T 29.6
+2000.01.01 01:19:08 3: value OK
+2000.01.01 01:19:09 3: T 26.7
+2000.01.01 01:19:22 3: off_ZiP return value: Actoff 0
+2000.01.01 01:19:35 3: T 29.5
+2000.01.01 01:19:39 3: off_LaP return value: Actoff 0
+2000.01.01 01:19:40 3: off_KW3 return value: Actoff 0
+2000.01.01 01:19:48 3: T 20.8
+2000.01.01 01:20:13 3: T 15.5
+2000.01.01 01:20:27 3: off_ZiP return value: Actoff 0
+2000.01.01 01:20:38 3: T 26.6
+2000.01.01 01:20:41 3: off_LaP return value: Actoff 0
+2000.01.01 01:20:42 3: off_KW3 return value: Actoff 0
+                                                                                                                                                  2000.01.01 01:03:04 1: Including fhem.cfg
+2000.01.01 01:03:05 2: MaxCounter is starting
+2000.01.01 01:03:05 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:03:06 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:03:07 3: telnetPort: port 7072 opened
+2000.01.01 01:03:09 3: WEB: port 8083 opened
+2000.01.01 01:03:09 3: WEBphone: port 8084 opened
+2000.01.01 01:03:09 3: WEBtablet: port 8085 opened
+2000.01.01 01:03:11 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:03:11 1: Including ./log/fhem.save
+2000.01.01 01:03:12 0: Server started with 147 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2021)
+2000.01.01 01:03:14 0: Server shutdown
+2000.01.01 01:03:30 1: Including fhem.cfg
+2000.01.01 01:03:30 2: MaxCounter is starting
+2000.01.01 01:03:30 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:03:30 3: ECMD setting bbbAVR baudrate to 38400
+2000.01.01 01:03:30 3: ECMD device opened
+2000.01.01 01:03:32 3: telnetPort: port 7072 opened
+2000.01.01 01:03:33 3: WEB: port 8083 opened
+2000.01.01 01:03:33 3: WEBphone: port 8084 opened
+2000.01.01 01:03:33 3: WEBtablet: port 8085 opened
+2000.01.01 01:03:34 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:03:34 1: Including ./log/fhem.save
+2000.01.01 01:03:34 0: Server started with 147 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2569)
+2000.01.01 01:04:38 3: off_LaP return value: Actoff 
+2000.01.01 01:04:38 3: off_KW3 return value: Actoff 0
+2000.01.01 01:04:38 3: off_ZiP return value: Actoff 0
+2000.01.01 01:05:34 3: value OK
+2000.01.01 01:05:37 3: off_LaP return value: Actoff 0
+2000.01.01 01:05:37 3: off_KW3 return value: Actoff 0
+2000.01.01 01:05:38 3: T 20.8
+2000.01.01 01:05:43 3: off_ZiP return value: Actoff 0
+2000.01.01 01:05:49 3: T 29.7
+2000.01.01 01:05:55 3: T 29.5
+2000.01.01 01:06:04 3: T 27.5
+2000.01.01 01:06:09 3: T 28.1
+2000.01.01 01:06:14 3: T 26.5
+                                                                                                            2000.01.01 01:03:17 1: Including fhem.cfg
+2000.01.01 01:03:18 2: MaxCounter is starting
+2000.01.01 01:03:18 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:03:19 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:03:20 3: telnetPort: port 7072 opened
+2000.01.01 01:03:20 3: WEB: port 8083 opened
+2000.01.01 01:03:20 3: WEBphone: port 8084 opened
+2000.01.01 01:03:20 3: WEBtablet: port 8085 opened
+2000.01.01 01:03:22 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:03:22 1: Including ./log/fhem.save
+2000.01.01 01:03:22 0: Server started with 147 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2027)
+2000.01.01 01:03:25 0: Server shutdown
+2000.01.01 01:03:41 1: Including fhem.cfg
+2000.01.01 01:03:42 2: MaxCounter is starting
+2000.01.01 01:03:42 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:03:42 3: ECMD setting bbbAVR baudrate to 38400
+2000.01.01 01:03:42 3: ECMD device opened
+2000.01.01 01:03:44 3: telnetPort: port 7072 opened
+2000.01.01 01:03:44 3: WEB: port 8083 opened
+2000.01.01 01:03:44 3: WEBphone: port 8084 opened
+2000.01.01 01:03:44 3: WEBtablet: port 8085 opened
+2000.01.01 01:03:45 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:03:45 1: Including ./log/fhem.save
+2000.01.01 01:03:46 0: Server started with 147 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2571)
+2000.01.01 01:04:50 3: off_LaP return value: Actoff 
+2000.01.01 01:04:50 3: off_KW3 return value: Actoff 0
+2000.01.01 01:04:50 3: off_ZiP return value: Actoff 0
+2000.01.01 01:05:45 3: value OK
+2000.01.01 01:05:49 3: off_LaP return value: Actoff 0
+2000.01.01 01:05:49 3: off_KW3 return value: Actoff 0
+2000.01.01 01:05:50 3: T 22.9
+2000.01.01 01:05:55 3: off_ZiP return value: Actoff 0
+2000.01.01 01:06:00 3: T 66.7
+2000.01.01 01:06:07 3: T 26.8
+2000.01.01 01:06:15 3: T 54.8
+2000.01.01 01:06:20 3: T 26.5
+2000.01.01 01:06:25 3: T 27.1
+2000.01.01 01:06:51 3: off_LaP return value: Actoff 0
+2000.01.01 01:06:51 3: off_KW3 return value: Actoff 0
+2000.01.01 01:07:00 3: off_ZiP return value: Actoff 0
+2000.01.01 01:07:10 3: T 15.6
+                                                                                                                                                                          2000.01.01 01:01:49 1: Including fhem.cfg
+2000.01.01 01:01:50 2: MaxCounter is starting
+2000.01.01 01:01:51 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:51 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:53 3: telnetPort: port 7072 opened
+2000.01.01 01:01:54 3: WEB: port 8083 opened
+2000.01.01 01:01:54 3: WEBphone: port 8084 opened
+2000.01.01 01:01:54 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:56 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:56 1: Including ./log/fhem.save
+2000.01.01 01:01:57 0: Server started with 147 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1985)
+2000.01.01 01:02:00 0: Server shutdown
+2000.01.01 01:01:34 1: Including fhem.cfg
+2000.01.01 01:01:35 2: MaxCounter is starting
+2000.01.01 01:01:35 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:35 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:37 3: telnetPort: port 7072 opened
+2000.01.01 01:01:38 3: WEB: port 8083 opened
+2000.01.01 01:01:38 3: WEBphone: port 8084 opened
+2000.01.01 01:01:38 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:40 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:40 1: Including ./log/fhem.save
+2000.01.01 01:01:41 0: Server started with 147 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1984)
+2000.01.01 01:01:45 0: Server shutdown
+2000.01.01 01:01:40 1: Including fhem.cfg
+2000.01.01 01:01:41 2: MaxCounter is starting
+2000.01.01 01:01:41 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:42 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:43 3: telnetPort: port 7072 opened
+2000.01.01 01:01:44 3: WEB: port 8083 opened
+2000.01.01 01:01:44 3: WEBphone: port 8084 opened
+2000.01.01 01:01:44 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:46 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:46 1: Including ./log/fhem.save
+2000.01.01 01:01:47 0: Server started with 147 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1989)
+2000.01.01 01:01:50 0: Server shutdown
+2000.01.01 01:01:49 1: Including fhem.cfg
+2000.01.01 01:01:50 2: MaxCounter is starting
+2000.01.01 01:01:50 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:50 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:52 3: telnetPort: port 7072 opened
+2000.01.01 01:01:52 3: WEB: port 8083 opened
+2000.01.01 01:01:52 3: WEBphone: port 8084 opened
+2000.01.01 01:01:52 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:54 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:54 1: Including ./log/fhem.save
+2000.01.01 01:01:55 0: Server started with 148 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2052)
+2000.01.01 01:01:52 1: Including fhem.cfg
+2000.01.01 01:01:52 2: MaxCounter is starting
+2000.01.01 01:01:53 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:53 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:54 3: telnetPort: port 7072 opened
+2000.01.01 01:01:55 3: WEB: port 8083 opened
+2000.01.01 01:01:55 3: WEBphone: port 8084 opened
+2000.01.01 01:01:55 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:56 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:56 1: Including ./log/fhem.save
+2000.01.01 01:01:56 0: Server started with 148 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2031)
+2000.01.01 01:01:46 1: Including fhem.cfg
+2000.01.01 01:01:47 2: MaxCounter is starting
+2000.01.01 01:01:47 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:48 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:49 3: telnetPort: port 7072 opened
+2000.01.01 01:01:50 3: WEB: port 8083 opened
+2000.01.01 01:01:50 3: WEBphone: port 8084 opened
+2000.01.01 01:01:50 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:51 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:51 1: Including ./log/fhem.save
+2000.01.01 01:01:52 0: Server started with 148 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2055)
+2000.01.01 01:01:54 1: Including fhem.cfg
+2000.01.01 01:01:55 2: MaxCounter is starting
+2000.01.01 01:01:56 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:56 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:57 3: telnetPort: port 7072 opened
+2000.01.01 01:01:58 3: WEB: port 8083 opened
+2000.01.01 01:01:58 3: WEBphone: port 8084 opened
+2000.01.01 01:01:58 3: WEBtablet: port 8085 opened
+2000.01.01 01:02:00 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:02:00 1: Including ./log/fhem.save
+2000.01.01 01:01:47 1: Including fhem.cfg
+2000.01.01 01:01:48 2: MaxCounter is starting
+2000.01.01 01:01:48 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:49 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:50 3: telnetPort: port 7072 opened
+2000.01.01 01:01:50 3: WEB: port 8083 opened
+2000.01.01 01:01:51 3: WEBphone: port 8084 opened
+2000.01.01 01:01:51 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:52 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:52 1: Including ./log/fhem.save
+2000.01.01 01:01:53 0: Server started with 148 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2042)
+2000.01.01 01:01:47 1: Including fhem.cfg
+2000.01.01 01:01:48 2: MaxCounter is starting
+2000.01.01 01:01:48 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:49 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:50 3: telnetPort: port 7072 opened
+2000.01.01 01:01:50 3: WEB: port 8083 opened
+2000.01.01 01:01:50 3: WEBphone: port 8084 opened
+2000.01.01 01:01:51 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:52 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:52 1: Including ./log/fhem.save
+2000.01.01 01:01:53 0: Server started with 148 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2051)
+2000.01.01 01:01:55 1: Including fhem.cfg
+2000.01.01 01:01:56 2: MaxCounter is starting
+2000.01.01 01:01:56 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:56 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:57 3: telnetPort: port 7072 opened
+2000.01.01 01:01:58 3: WEB: port 8083 opened
+2000.01.01 01:01:58 3: WEBphone: port 8084 opened
+2000.01.01 01:01:58 3: WEBtablet: port 8085 opened
+2000.01.01 01:02:00 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:02:00 1: Including ./log/fhem.save
+2000.01.01 01:01:51 1: Including fhem.cfg
+2000.01.01 01:01:52 2: MaxCounter is starting
+2000.01.01 01:01:52 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:53 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:53 3: telnetPort: port 7072 opened
+2000.01.01 01:01:55 3: WEB: port 8083 opened
+2000.01.01 01:01:55 3: WEBphone: port 8084 opened
+2000.01.01 01:01:55 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:56 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:56 1: Including ./log/fhem.save
+2000.01.01 01:01:57 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2030)
+2000.01.01 01:01:56 1: Including fhem.cfg
+2000.01.01 01:01:57 2: MaxCounter is starting
+2000.01.01 01:01:57 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:58 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:59 3: telnetPort: port 7072 opened
+2000.01.01 01:01:59 3: WEB: port 8083 opened
+2000.01.01 01:02:00 3: WEBphone: port 8084 opened
+2000.01.01 01:02:00 3: WEBtablet: port 8085 opened
+2000.01.01 01:02:01 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:02:01 1: Including ./log/fhem.save
+2000.01.01 01:02:02 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2057)
+2000.01.01 01:01:47 1: Including fhem.cfg
+2000.01.01 01:01:48 2: MaxCounter is starting
+2000.01.01 01:01:49 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:49 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:50 3: telnetPort: port 7072 opened
+2000.01.01 01:01:51 3: WEB: port 8083 opened
+2000.01.01 01:01:51 3: WEBphone: port 8084 opened
+2000.01.01 01:01:51 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:50 1: Including fhem.cfg
+2000.01.01 01:01:52 2: MaxCounter is starting
+2000.01.01 01:01:53 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:53 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:54 3: telnetPort: port 7072 opened
+2000.01.01 01:01:55 3: WEB: port 8083 opened
+2000.01.01 01:01:55 3: WEBphone: port 8084 opened
+2000.01.01 01:01:55 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:54 1: Including fhem.cfg
+2000.01.01 01:01:55 2: MaxCounter is starting
+2000.01.01 01:01:55 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:55 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:55 3: telnetPort: port 7072 opened
+2000.01.01 01:01:55 3: WEB: port 8083 opened
+2000.01.01 01:01:55 3: WEBphone: port 8084 opened
+2000.01.01 01:01:55 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:56 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:56 1: Including ./log/fhem.save
+2000.01.01 01:01:56 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1995)
+2000.01.01 01:02:10 0: Server shutdown
+2000.01.01 01:01:55 1: Including fhem.cfg
+2000.01.01 01:01:56 2: MaxCounter is starting
+2000.01.01 01:01:56 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:56 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:57 3: telnetPort: port 7072 opened
+2000.01.01 01:01:58 3: WEB: port 8083 opened
+2000.01.01 01:01:58 3: WEBphone: port 8084 opened
+2000.01.01 01:01:58 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:59 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:59 1: Including ./log/fhem.save
+2000.01.01 01:02:00 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2034)
+2000.01.01 01:01:52 1: Including fhem.cfg
+2000.01.01 01:01:53 2: MaxCounter is starting
+2000.01.01 01:01:53 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:53 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:54 3: telnetPort: port 7072 opened
+2000.01.01 01:01:55 3: WEB: port 8083 opened
+2000.01.01 01:01:55 3: WEBphone: port 8084 opened
+2000.01.01 01:01:55 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:57 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:57 1: Including ./log/fhem.save
+2000.01.01 01:02:42 1: Including fhem.cfg
+2000.01.01 01:02:43 2: MaxCounter is starting
+2000.01.01 01:02:43 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:02:43 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:02:44 3: telnetPort: port 7072 opened
+2000.01.01 01:02:44 3: WEB: port 8083 opened
+2000.01.01 01:02:44 3: WEBphone: port 8084 opened
+2000.01.01 01:02:44 3: WEBtablet: port 8085 opened
+2000.01.01 01:02:46 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:02:46 1: Including ./log/fhem.save
+2000.01.01 01:02:46 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2010)
+2000.01.01 01:02:52 0: Server shutdown
+2000.01.01 01:02:55 1: Including fhem.cfg
+2000.01.01 01:02:56 2: MaxCounter is starting
+2000.01.01 01:02:56 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:02:56 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:02:57 3: telnetPort: port 7072 opened
+2000.01.01 01:02:57 3: WEB: port 8083 opened
+2000.01.01 01:02:57 3: WEBphone: port 8084 opened
+2000.01.01 01:02:57 3: WEBtablet: port 8085 opened
+2000.01.01 01:02:59 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:02:59 1: Including ./log/fhem.save
+2000.01.01 01:02:59 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2013)
+2000.01.01 01:03:05 0: Server shutdown
+2000.01.01 01:03:21 1: Including fhem.cfg
+2000.01.01 01:03:21 2: MaxCounter is starting
+2000.01.01 01:03:21 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:03:21 3: ECMD setting bbbAVR baudrate to 38400
+2000.01.01 01:03:21 3: ECMD device opened
+2000.01.01 01:01:52 1: Including fhem.cfg
+2000.01.01 01:01:53 2: MaxCounter is starting
+2000.01.01 01:01:53 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:54 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:55 3: telnetPort: port 7072 opened
+2000.01.01 01:01:56 3: WEB: port 8083 opened
+2000.01.01 01:01:56 3: WEBphone: port 8084 opened
+2000.01.01 01:01:56 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:58 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:58 1: Including ./log/fhem.save
+2000.01.01 01:01:58 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2059)
+2000.01.01 01:01:51 1: Including fhem.cfg
+2000.01.01 01:01:52 2: MaxCounter is starting
+2000.01.01 01:01:52 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:52 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:53 3: telnetPort: port 7072 opened
+2000.01.01 01:01:54 3: WEB: port 8083 opened
+2000.01.01 01:01:54 3: WEBphone: port 8084 opened
+2000.01.01 01:01:54 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:56 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:56 1: Including ./log/fhem.save
+2000.01.01 01:01:57 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2063)
+2000.01.01 01:01:59 1: Including fhem.cfg
+2000.01.01 01:02:01 2: MaxCounter is starting
+2000.01.01 01:02:01 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:02:02 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:02:02 3: telnetPort: port 7072 opened
+2000.01.01 01:02:04 3: WEB: port 8083 opened
+2000.01.01 01:02:04 3: WEBphone: port 8084 opened
+2000.01.01 01:02:04 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:58 1: Including fhem.cfg
+2000.01.01 01:02:00 2: MaxCounter is starting
+2000.01.01 01:02:00 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:02:01 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:02:02 3: telnetPort: port 7072 opened
+2000.01.01 01:02:03 3: WEB: port 8083 opened
+2000.01.01 01:02:03 3: WEBphone: port 8084 opened
+2000.01.01 01:02:03 3: WEBtablet: port 8085 opened
+2000.01.01 01:02:05 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:02:05 1: Including ./log/fhem.save
+2000.01.01 01:02:06 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2065)
+2000.01.01 01:01:52 1: Including fhem.cfg
+2000.01.01 01:01:53 2: MaxCounter is starting
+2000.01.01 01:01:53 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:53 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:55 3: telnetPort: port 7072 opened
+2000.01.01 01:01:55 3: WEB: port 8083 opened
+2000.01.01 01:01:55 3: WEBphone: port 8084 opened
+2000.01.01 01:01:55 3: WEBtablet: port 8085 opened
+2000.01.01 01:01:58 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:01:58 1: Including ./log/fhem.save
+2000.01.01 01:01:58 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2058)
+2000.01.01 01:01:52 1: Including fhem.cfg
+2000.01.01 01:01:53 2: MaxCounter is starting
+2000.01.01 01:01:54 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:01:54 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:01:55 3: telnetPort: port 7072 opened
+2000.01.01 01:01:56 3: WEB: port 8083 opened
+2000.01.01 01:01:56 3: WEBphone: port 8084 opened
+2000.01.01 01:01:56 3: WEBtablet: port 8085 opened
+2000.01.01 01:02:17 1: Including fhem.cfg
+2000.01.01 01:02:18 2: MaxCounter is starting
+2000.01.01 01:02:19 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:02:19 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:02:20 3: telnetPort: port 7072 opened
+2000.01.01 01:02:21 3: WEB: port 8083 opened
+2000.01.01 01:02:21 3: WEBphone: port 8084 opened
+2000.01.01 01:02:21 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:27 1: Including fhem.cfg
+2000.01.01 01:00:28 2: MaxCounter is starting
+2000.01.01 01:00:29 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:29 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:30 3: telnetPort: port 7072 opened
+2000.01.01 01:00:31 3: WEB: port 8083 opened
+2000.01.01 01:00:31 3: WEBphone: port 8084 opened
+2000.01.01 01:00:31 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:23 1: Including fhem.cfg
+2000.01.01 01:00:24 2: MaxCounter is starting
+2000.01.01 01:00:25 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:25 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:26 3: telnetPort: port 7072 opened
+2000.01.01 01:00:27 3: WEB: port 8083 opened
+2000.01.01 01:00:27 3: WEBphone: port 8084 opened
+2000.01.01 01:00:27 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:29 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:29 1: Including ./log/fhem.save
+2000.01.01 01:00:16 1: Including fhem.cfg
+2000.01.01 01:00:17 2: MaxCounter is starting
+2000.01.01 01:00:17 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:17 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:18 3: telnetPort: port 7072 opened
+2000.01.01 01:00:19 3: WEB: port 8083 opened
+2000.01.01 01:00:19 3: WEBphone: port 8084 opened
+2000.01.01 01:00:19 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:20 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:20 1: Including ./log/fhem.save
+2000.01.01 01:00:21 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1866)
+2000.01.01 01:00:26 0: Server shutdown
+2000.01.01 01:00:41 1: Including fhem.cfg
+2000.01.01 01:00:42 2: MaxCounter is starting
+2000.01.01 01:00:42 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:42 3: ECMD setting bbbAVR baudrate to 38400
+2000.01.01 01:00:42 3: ECMD device opened
+2000.01.01 01:00:44 3: telnetPort: port 7072 opened
+2000.01.01 01:00:44 3: WEB: port 8083 opened
+2000.01.01 01:00:44 3: WEBphone: port 8084 opened
+2000.01.01 01:00:44 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:45 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:45 1: Including ./log/fhem.save
+2000.01.01 01:00:45 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2440)
+2000.01.01 01:01:50 3: off_LaP return value: Actoff 
+2000.01.01 01:01:50 3: off_KW3 return value: Actoff 0
+2000.01.01 01:01:50 3: off_ZiP return value: Actoff 0
+2000.01.01 01:02:45 3: value OK
+2000.01.01 01:02:49 3: off_LaP return value: Actoff 0
+2000.01.01 01:02:49 3: off_KW3 return value: Actoff 0
+2000.01.01 01:02:50 3: T 21.6
+2000.01.01 01:02:55 3: off_ZiP return value: Actoff 0
+2000.01.01 01:02:58 3: T 4.5
+2000.01.01 01:03:00 3: T 69.5
+2000.01.01 01:03:06 3: T 62.8
+2000.01.01 01:03:15 3: T 44.5
+2000.01.01 01:03:20 3: T 54.0
+2000.01.01 01:03:25 3: T 28.8
+2000.01.01 01:03:51 3: off_LaP return value: Actoff 0
+2000.01.01 01:03:51 3: off_KW3 return value: Actoff 0
+2000.01.01 01:04:00 3: off_ZiP return value: Actoff 0
+2000.01.01 01:04:10 3: T 24.3
+2000.01.01 01:04:45 3: value OK
+2000.01.01 01:04:53 3: off_LaP return value: Actoff 0
+2000.01.01 01:04:53 3: off_KW3 return value: Actoff 0
+2000.01.01 01:04:55 3: T 21.6
+2000.01.01 01:05:05 3: off_ZiP return value: Actoff 0
+2000.01.01 01:05:11 3: T 4.5
+2000.01.01 01:05:15 3: T 69.5
+2000.01.01 01:05:27 3: T 62.6
+2000.01.01 01:00:30 1: Including fhem.cfg
+2000.01.01 01:00:30 2: MaxCounter is starting
+2000.01.01 01:00:30 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:30 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:31 3: telnetPort: port 7072 opened
+2000.01.01 01:00:31 3: WEB: port 8083 opened
+2000.01.01 01:00:31 3: WEBphone: port 8084 opened
+2000.01.01 01:00:31 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:31 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:31 1: Including ./log/fhem.save
+2000.01.01 01:00:32 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2017)
+2000.01.01 01:01:33 3: off_LaP return value: Actoff 
+2000.01.01 01:01:33 3: off_KW3 return value: Actoff 
+2000.01.01 01:01:36 3: off_ZiP return value: Actoff 
+2000.01.01 01:02:30 3: value 
+2000.01.01 01:02:35 3: off_LaP return value: Actoff 
+2000.01.01 01:02:35 3: off_KW3 return value: Actoff 
+2000.01.01 01:02:36 3: T 
+2000.01.01 01:02:41 3: off_ZiP return value: Actoff 
+2000.01.01 01:02:44 3: T 
+2000.01.01 01:02:46 3: T 
+2000.01.01 01:02:52 3: T 
+2000.01.01 01:03:01 3: T 
+2000.01.01 01:00:20 1: Including fhem.cfg
+2000.01.01 01:00:21 2: MaxCounter is starting
+2000.01.01 01:00:22 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:22 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:23 3: telnetPort: port 7072 opened
+2000.01.01 01:00:24 3: WEB: port 8083 opened
+2000.01.01 01:00:24 3: WEBphone: port 8084 opened
+2000.01.01 01:00:24 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:26 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:26 1: Including ./log/fhem.save
+2000.01.01 01:00:29 1: Including fhem.cfg
+2000.01.01 01:00:30 2: MaxCounter is starting
+2000.01.01 01:00:30 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:30 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:30 3: telnetPort: port 7072 opened
+2000.01.01 01:00:30 3: WEB: port 8083 opened
+2000.01.01 01:00:30 3: WEBphone: port 8084 opened
+2000.01.01 01:00:30 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:31 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:31 1: Including ./log/fhem.save
+2000.01.01 01:00:31 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1944)
+2000.01.01 01:01:33 3: off_LaP return value: Actoff 
+2000.01.01 01:01:33 3: off_KW3 return value: Actoff 
+2000.01.01 01:01:36 3: off_ZiP return value: Actoff 
+2000.01.01 01:02:30 3: value 
+2000.01.01 01:02:35 3: off_LaP return value: Actoff 
+2000.01.01 01:02:35 3: off_KW3 return value: Actoff 
+2000.01.01 01:02:36 3: T 
+2000.01.01 01:02:41 3: off_ZiP return value: Actoff 
+2000.01.01 01:02:44 3: T 
+2000.01.01 01:02:46 3: T 
+2000.01.01 01:02:52 3: T 
+2000.01.01 01:03:01 3: T 
+2000.01.01 01:03:06 3: T 
+2000.01.01 01:03:11 3: T 
+2000.01.01 01:03:37 3: off_LaP return value: Actoff 
+2000.01.01 01:03:37 3: off_KW3 return value: Actoff 
+2000.01.01 01:03:46 3: off_ZiP return value: Actoff 
+2000.01.01 01:03:56 3: T 
+2000.01.01 01:04:30 3: value 
+2000.01.01 01:04:39 3: off_LaP return value: Actoff 
+2000.01.01 01:04:39 3: off_KW3 return value: Actoff 
+2000.01.01 01:00:29 1: Including fhem.cfg
+2000.01.01 01:00:30 2: MaxCounter is starting
+2000.01.01 01:00:30 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:31 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:32 3: telnetPort: port 7072 opened
+2000.01.01 01:00:32 3: WEB: port 8083 opened
+2000.01.01 01:00:32 3: WEBphone: port 8084 opened
+2000.01.01 01:00:32 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:34 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:34 1: Including ./log/fhem.save
+2000.01.01 01:00:34 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2067)
+2000.01.01 01:00:21 1: Including fhem.cfg
+2000.01.01 01:00:22 2: MaxCounter is starting
+2000.01.01 01:00:23 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:23 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:24 3: telnetPort: port 7072 opened
+2000.01.01 01:00:26 3: WEB: port 8083 opened
+2000.01.01 01:00:26 3: WEBphone: port 8084 opened
+2000.01.01 01:00:26 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:24 1: Including fhem.cfg
+2000.01.01 01:00:25 2: MaxCounter is starting
+2000.01.01 01:00:25 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:25 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:27 3: telnetPort: port 7072 opened
+2000.01.01 01:00:28 3: WEB: port 8083 opened
+2000.01.01 01:00:28 3: WEBphone: port 8084 opened
+2000.01.01 01:00:28 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:29 1: Including fhem.cfg
+2000.01.01 01:00:30 2: MaxCounter is starting
+2000.01.01 01:00:30 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:30 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:30 3: telnetPort: port 7072 opened
+2000.01.01 01:00:30 3: WEB: port 8083 opened
+2000.01.01 01:00:30 3: WEBphone: port 8084 opened
+2000.01.01 01:00:30 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:31 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:31 1: Including ./log/fhem.save
+2000.01.01 01:00:31 0: Server started with 157 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1956)
+2000.01.01 01:01:33 3: off_LaP return value: Actoff 
+2000.01.01 01:01:33 3: off_KW3 return value: Actoff 
+2000.01.01 01:01:36 3: off_ZiP return value: Actoff 
+2000.01.01 01:02:30 3: value 
+2000.01.01 01:02:35 3: off_LaP return value: Actoff 
+2000.01.01 01:02:35 3: off_KW3 return value: Actoff 
+2000.01.01 01:02:36 3: T 
+2000.01.01 01:02:41 3: off_ZiP return value: Actoff 
+2000.01.01 01:02:44 3: T 
+2000.01.01 01:02:46 3: T 
+2000.01.01 01:02:52 3: T 
+2000.01.01 01:03:01 3: T 
+2000.01.01 01:03:06 3: T 
+2000.01.01 01:03:11 3: T 
+2000.01.01 01:03:37 3: off_LaP return value: Actoff 
+2000.01.01 01:03:37 3: off_KW3 return value: Actoff 
+2000.01.01 01:03:46 3: off_ZiP return value: Actoff 
+2000.01.01 01:03:56 3: T 
+                                                                                                                                                                  2000.01.01 01:00:20 1: Including fhem.cfg
+2000.01.01 01:00:22 2: MaxCounter is starting
+2000.01.01 01:00:22 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:22 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:23 3: telnetPort: port 7072 opened
+2000.01.01 01:00:24 3: WEB: port 8083 opened
+2000.01.01 01:00:24 3: WEBphone: port 8084 opened
+2000.01.01 01:00:24 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:22 1: Including fhem.cfg
+2000.01.01 01:00:23 2: MaxCounter is starting
+2000.01.01 01:00:23 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:24 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:25 3: telnetPort: port 7072 opened
+2000.01.01 01:00:27 3: WEB: port 8083 opened
+2000.01.01 01:00:27 3: WEBphone: port 8084 opened
+2000.01.01 01:00:27 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:29 1: Including fhem.cfg
+2000.01.01 01:00:29 2: MaxCounter is starting
+2000.01.01 01:00:29 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:29 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:30 3: telnetPort: port 7072 opened
+2000.01.01 01:00:30 3: WEB: port 8083 opened
+2000.01.01 01:00:30 3: WEBphone: port 8084 opened
+2000.01.01 01:00:30 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:30 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:30 1: Including ./log/fhem.save
+2000.01.01 01:00:30 0: Server started with 160 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2019)
+2000.01.01 01:00:22 1: Including fhem.cfg
+2000.01.01 01:00:24 2: MaxCounter is starting
+2000.01.01 01:00:24 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:24 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:25 3: telnetPort: port 7072 opened
+2000.01.01 01:00:26 3: WEB: port 8083 opened
+2000.01.01 01:00:26 3: WEBphone: port 8084 opened
+2000.01.01 01:00:26 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:25 1: Including fhem.cfg
+2000.01.01 01:00:26 2: MaxCounter is starting
+2000.01.01 01:00:26 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:26 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:27 3: telnetPort: port 7072 opened
+2000.01.01 01:00:28 3: WEB: port 8083 opened
+2000.01.01 01:00:28 3: WEBphone: port 8084 opened
+2000.01.01 01:00:28 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:30 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:30 1: Including ./log/fhem.save
+2000.01.01 01:00:31 0: Server started with 163 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2071)
+2000.01.01 01:00:20 1: Including fhem.cfg
+2000.01.01 01:00:21 2: MaxCounter is starting
+2000.01.01 01:00:21 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:22 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:22 3: telnetPort: port 7072 opened
+2000.01.01 01:00:23 3: WEB: port 8083 opened
+2000.01.01 01:00:23 3: WEBphone: port 8084 opened
+2000.01.01 01:00:23 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:24 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:24 1: Including ./log/fhem.save
+2000.01.01 01:00:24 0: Server started with 166 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1983)
+2000.01.01 01:00:22 1: Including fhem.cfg
+2000.01.01 01:00:23 2: MaxCounter is starting
+2000.01.01 01:00:23 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:23 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:24 3: telnetPort: port 7072 opened
+2000.01.01 01:00:25 3: WEB: port 8083 opened
+2000.01.01 01:00:25 3: WEBphone: port 8084 opened
+2000.01.01 01:00:25 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:26 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:26 1: Including ./log/fhem.save
+2000.01.01 01:00:26 0: Server started with 166 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1971)
+2000.01.01 01:00:21 1: Including fhem.cfg
+2000.01.01 01:00:22 2: MaxCounter is starting
+2000.01.01 01:00:22 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:22 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:23 3: telnetPort: port 7072 opened
+2000.01.01 01:00:24 3: WEB: port 8083 opened
+2000.01.01 01:00:24 3: WEBphone: port 8084 opened
+2000.01.01 01:00:24 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:25 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:25 1: Including ./log/fhem.save
+2000.01.01 01:00:25 0: Server started with 166 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1985)
+2000.01.01 01:00:22 1: Including fhem.cfg
+2000.01.01 01:00:23 2: MaxCounter is starting
+2000.01.01 01:00:23 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:23 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:24 3: telnetPort: port 7072 opened
+2000.01.01 01:00:25 3: WEB: port 8083 opened
+2000.01.01 01:00:25 3: WEBphone: port 8084 opened
+2000.01.01 01:00:25 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:26 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:26 1: Including ./log/fhem.save
+2000.01.01 01:00:26 0: Server started with 164 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1969)
+2000.01.01 01:00:22 1: Including fhem.cfg
+2000.01.01 01:00:23 2: MaxCounter is starting
+2000.01.01 01:00:23 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:24 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:24 3: telnetPort: port 7072 opened
+2000.01.01 01:00:25 3: WEB: port 8083 opened
+2000.01.01 01:00:25 3: WEBphone: port 8084 opened
+2000.01.01 01:00:25 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:26 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:26 1: Including ./log/fhem.save
+2000.01.01 01:00:26 0: Server started with 165 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1994)
+2000.01.01 01:00:22 1: Including fhem.cfg
+2000.01.01 01:00:23 2: MaxCounter is starting
+2000.01.01 01:00:23 3: ECMD opening bbbAVR (protocol serial, device /dev/ttyO1@38400)
+2000.01.01 01:00:23 3: Can't open /dev/ttyO1: No such file or directory
+2000.01.01 01:00:24 3: telnetPort: port 7072 opened
+2000.01.01 01:00:24 3: WEB: port 8083 opened
+2000.01.01 01:00:24 3: WEBphone: port 8084 opened
+2000.01.01 01:00:24 3: WEBtablet: port 8085 opened
+2000.01.01 01:00:25 1: configfile: MaxCounterAT already defined, delete it first
+2000.01.01 01:00:25 1: Including ./log/fhem.save
+2000.01.01 01:00:25 0: Server started with 165 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1984)

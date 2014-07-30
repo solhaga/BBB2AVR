@@ -1,0 +1,526 @@
+2013.05.22 11:07:56 1: Including fhem.cfg
+2013.05.22 11:07:57 3: telnetPort: port 7072 opened
+2013.05.22 11:08:01 3: WEB: port 8083 opened
+2013.05.22 11:08:01 3: WEBphone: port 8084 opened
+2013.05.22 11:08:01 3: WEBtablet: port 8085 opened
+2013.05.22 11:08:02 1: usb create starting
+2013.05.22 11:08:03 3: Opening CUL device /dev/ttyAMA0
+2013.05.22 11:08:04 3: Can't open /dev/ttyAMA0: Permission denied
+2013.05.22 11:08:04 1: usb create end
+2013.05.22 11:08:04 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.22 11:08:04 0: Server started with 8 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 4196)
+2013.05.22 11:08:24 1: Including fhem.cfg
+2013.05.22 11:08:25 1: telnetPort: Can't open server port at 7072: Address already in use. Exiting.
+2013.05.22 11:13:01 1: Including fhem.cfg
+2013.05.22 11:13:01 3: telnetPort: port 7072 opened
+2013.05.22 11:13:01 3: WEB: port 8083 opened
+2013.05.22 11:13:01 3: WEBphone: port 8084 opened
+2013.05.22 11:13:01 3: WEBtablet: port 8085 opened
+2013.05.22 11:13:01 1: Including ./log/fhem.save
+2013.05.22 11:17:28 1: Including fhem.cfg
+2013.05.22 11:17:28 3: telnetPort: port 7072 opened
+2013.05.22 11:17:28 3: WEB: port 8083 opened
+2013.05.22 11:17:28 3: WEBphone: port 8084 opened
+2013.05.22 11:17:28 3: WEBtablet: port 8085 opened
+2013.05.22 11:17:28 1: Including ./log/fhem.save
+2013.05.22 11:33:13 1: Including fhem.cfg
+2013.05.22 11:33:13 3: telnetPort: port 7072 opened
+2013.05.22 11:33:13 3: WEB: port 8083 opened
+2013.05.22 11:33:13 3: WEBphone: port 8084 opened
+2013.05.22 11:33:13 3: WEBtablet: port 8085 opened
+2013.05.22 11:33:13 1: Including ./log/fhem.save
+2013.05.22 11:34:35 1: Including fhem.cfg
+2013.05.22 11:34:35 3: telnetPort: port 7072 opened
+2013.05.22 11:34:35 3: WEB: port 8083 opened
+2013.05.22 11:34:35 3: WEBphone: port 8084 opened
+2013.05.22 11:34:35 3: WEBtablet: port 8085 opened
+2013.05.22 11:34:35 1: Including ./log/fhem.save
+2013.05.22 12:15:19 0: Server shutdown
+2013.05.22 12:15:23 1: Including fhem.cfg
+2013.05.22 12:15:24 3: telnetPort: port 7072 opened
+2013.05.22 12:15:24 3: WEB: port 8083 opened
+2013.05.22 12:15:24 3: WEBphone: port 8084 opened
+2013.05.22 12:15:24 3: WEBtablet: port 8085 opened
+2013.05.22 12:15:25 1: Including ./log/fhem.save
+2013.05.22 12:15:25 1: usb create starting
+2013.05.22 12:15:26 3: Opening CUL device /dev/ttyAMA0
+2013.05.22 12:15:26 3: Can't open /dev/ttyAMA0: Permission denied
+2013.05.22 12:15:26 1: usb create end
+2013.05.22 12:15:26 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.22 12:15:26 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 4301)
+2013.05.22 12:20:25 0: Server shutdown
+2013.05.22 12:20:29 1: Including fhem.cfg
+2013.05.22 12:20:30 3: telnetPort: port 7072 opened
+2013.05.22 12:20:30 3: WEB: port 8083 opened
+2013.05.22 12:20:30 3: WEBphone: port 8084 opened
+2013.05.22 12:20:30 3: WEBtablet: port 8085 opened
+2013.05.22 12:20:30 1: Including ./log/fhem.save
+2013.05.22 12:20:31 1: usb create starting
+2013.05.22 12:20:32 3: Opening CUL device /dev/ttyAMA0
+2013.05.22 12:20:32 3: Can't open /dev/ttyAMA0: Permission denied
+2013.05.22 12:20:32 1: usb create end
+2013.05.22 12:20:32 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.22 12:20:32 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 4316)
+2013.05.22 12:23:40 0: Server shutdown
+2013.05.22 12:23:44 1: Including fhem.cfg
+2013.05.22 12:23:45 3: telnetPort: port 7072 opened
+2013.05.22 12:23:45 3: WEB: port 8083 opened
+2013.05.22 12:23:45 3: WEBphone: port 8084 opened
+2013.05.22 12:23:45 3: WEBtablet: port 8085 opened
+2013.05.22 12:23:46 1: Including ./log/fhem.save
+2013.05.22 12:23:46 1: usb create starting
+2013.05.22 12:23:47 3: Opening CUL device /dev/ttyAMA0
+2013.05.22 12:23:47 3: Can't open /dev/ttyAMA0: Permission denied
+2013.05.22 12:23:47 1: usb create end
+2013.05.22 12:23:47 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.22 12:23:47 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 4328)
+2013.05.22 12:27:16 1: Including fhem.cfg
+2013.05.22 12:27:16 1: telnetPort: Can't open server port at 7072: Address already in use. Exiting.
+2013.05.22 12:27:24 0: Server shutdown
+2013.05.22 12:27:39 1: Including fhem.cfg
+2013.05.22 12:27:40 3: telnetPort: port 7072 opened
+2013.05.22 12:27:40 3: WEB: port 8083 opened
+2013.05.22 12:27:40 3: WEBphone: port 8084 opened
+2013.05.22 12:27:40 3: WEBtablet: port 8085 opened
+2013.05.22 12:27:40 1: Including ./log/fhem.save
+2013.05.22 12:27:41 1: usb create starting
+2013.05.22 12:27:42 3: Opening CUL device /dev/ttyAMA0
+2013.05.22 12:27:42 3: Can't open /dev/ttyAMA0: Permission denied
+2013.05.22 12:27:42 1: usb create end
+2013.05.22 12:27:42 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.22 12:27:42 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 4440)
+2013.05.22 12:29:09 0: Server shutdown
+2013.05.22 12:30:29 1: Including fhem.cfg
+2013.05.22 12:30:29 3: telnetPort: port 7072 opened
+2013.05.22 12:30:30 3: WEB: port 8083 opened
+2013.05.22 12:30:30 3: WEBphone: port 8084 opened
+2013.05.22 12:30:30 3: WEBtablet: port 8085 opened
+2013.05.22 12:30:30 1: Including ./log/fhem.save
+2013.05.22 12:30:30 1: usb create starting
+2013.05.22 12:30:32 3: Opening CUL device /dev/ttyAMA0
+2013.05.22 12:30:32 3: Can't open /dev/ttyAMA0: Permission denied
+2013.05.22 12:30:32 1: usb create end
+2013.05.22 12:30:32 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.22 12:30:32 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 4510)
+2013.05.22 14:53:49 0: Server shutdown
+2013.05.22 14:54:04 1: Including fhem.cfg
+2013.05.22 14:54:05 3: telnetPort: port 7072 opened
+2013.05.22 14:54:06 3: WEB: port 8083 opened
+2013.05.22 14:54:06 3: WEBphone: port 8084 opened
+2013.05.22 14:54:06 3: WEBtablet: port 8085 opened
+2013.05.22 14:54:07 1: Including ./log/fhem.save
+2013.05.22 14:54:07 1: usb create starting
+2013.05.22 14:54:09 3: Opening CUL device /dev/ttyAMA0
+2013.05.22 14:54:09 3: Can't open /dev/ttyAMA0: Permission denied
+2013.05.22 14:54:09 1: usb create end
+2013.05.22 14:54:09 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.22 14:54:09 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1924)
+2013.05.22 17:17:55 0: Server shutdown
+2013.05.22 17:18:11 1: Including fhem.cfg
+2013.05.22 17:18:13 3: telnetPort: port 7072 opened
+2013.05.22 17:18:14 3:2013.05.22 17:18:13 1: Including fhem.cfg
+2013.05.22 17:18:15 3: telnetPort: port 7072 opened
+2013.05.22 17:18:16 3: WEB: port 8083 opened
+2013.05.22 17:18:16 3: WEBphone: port 8084 opened
+2013.05.22 17:18:16 3: WEBtablet: port 8085 opened
+2013.05.22 17:18:17 1: Including ./log/fhem.save
+2013.05.22 17:18:17 1: usb create starting
+2013.05.22 17:18:18 3: Opening CUL device /dev/ttyAMA0
+2013.05.22 17:18:19 3: Can't open /dev/ttyAMA0: Permission denied
+2013.05.22 17:18:19 1: usb create end
+2013.05.22 17:18:19 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.22 17:18:19 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2008)
+2013.05.23 13:14:15 0: Server shutdown
+2013.05.23 13:14:39 1: Including fhem.cfg
+2013.05.23 13:14:40 3: telnetPort: port 7072 opened
+2013.05.23 13:14:41 3: WEB: port 8083 opened
+2013.05.23 13:14:41 3: WEBphone: port 8084 opened
+2013.05.23 13:14:41 3: WEBtablet: port 8085 opened
+2013.05.23 13:14:42 1: Including ./log/fhem.save
+2013.05.23 13:14:42 1: usb create starting
+2013.05.23 13:14:45 3: Opening CUL device /dev/ttyAMA0
+2013.05.23 13:14:47 3: Setting CUL baudrate to 38400
+2013.05.23 13:14:47 3: CUL device opened
+2013.05.23 13:14:47 1: usb create end
+2013.05.23 13:14:47 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.23 13:14:47 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2089)
+2013.05.23 13:37:36 0: Server shutdown
+2013.05.23 13:37:52 1: Including fhem.cfg
+2013.05.23 13:37:53 3: telnetPort: port 7072 opened
+2013.05.23 13:37:54 3: WEB: port 8083 opened
+2013.05.23 13:37:54 3: WEBphone: port 8084 opened
+2013.05.23 13:37:55 3: WEBtablet: port 8085 opened
+2013.05.23 13:37:55 1: Including ./log/fhem.save
+2013.05.23 13:37:56 1: usb create starting
+2013.05.23 13:37:58 3: Opening CUL device /dev/ttyAMA0
+2013.05.23 13:37:59 3: Setting CUL baudrate to 38400
+2013.05.23 13:37:59 3: CUL device opened
+2013.05.23 13:37:59 1: usb create end
+2013.05.23 13:37:59 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.23 13:37:59 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2002)
+2013.05.23 13:39:03 0: Server shutdown
+2013.05.23 13:39:19 1: Including fhem.cfg
+2013.05.23 13:39:20 3: telnetPort: port 7072 opened
+2013.05.23 13:39:21 3: WEB: port 8083 opened
+2013.05.23 13:39:21 3: WEBphone: port 8084 opened
+2013.05.23 13:39:21 3: WEBtablet: port 8085 opened
+2013.05.23 13:39:22 1: Including ./log/fhem.save
+2013.05.23 13:39:22 1: usb create starting
+2013.05.23 13:39:25 3: Opening CUL device /dev/ttyAMA0
+2013.05.23 13:39:26 3: Can't open /dev/ttyAMA0: Permission denied
+2013.05.23 13:39:26 1: usb create end
+2013.05.23 13:39:26 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.23 13:39:26 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 3494)
+2013.05.23 13:47:27 0: Server shutdown
+2013.05.23 13:47:38 1: Including fhem.cfg
+2013.05.23 13:47:40 3: telnetPort: port 7072 opened
+2013.05.23 13:47:41 3: WEB: port 8083 opened
+2013.05.23 13:47:41 3: WEBphone: port 8084 opened
+2013.05.23 13:47:41 3: WEBtablet: port 8085 opened
+2013.05.23 13:47:42 1: Including ./log/fhem.save
+2013.05.23 13:47:42 1: usb create starting
+2013.05.23 13:47:45 3: Opening CUL device /dev/ttyAMA0
+2013.05.23 13:47:46 3: Can't open /dev/ttyAMA0: Permission denied
+2013.05.23 13:47:46 1: usb create end
+2013.05.23 13:47:46 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.23 13:47:46 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 5277)
+2013.05.23 13:48:03 0: Server shutdown
+2013.05.23 13:48:24 1: Including fhem.cfg
+2013.05.23 13:48:26 3: telnetPort: port 7072 opened
+2013.05.23 13:48:27 3: WEB: port 8083 opened
+2013.05.23 13:48:27 3: WEBphone: port 8084 opened
+2013.05.23 13:48:27 3: WEBtablet: port 8085 opened
+2013.05.23 13:48:28 1: Including ./log/fhem.save
+2013.05.23 13:48:28 1: usb create starting
+2013.05.23 13:48:31 3: Opening CUL device /dev/ttyAMA0
+2013.05.23 13:48:32 3: Setting CUL baudrate to 38400
+2013.05.23 13:48:32 3: CUL device opened
+2013.05.23 13:48:32 1: usb create end
+2013.05.23 13:48:32 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.23 13:48:32 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2036)
+2013.05.23 16:23:02 0: Server shutdown
+2013.05.23 16:23:22 1: Including fhem.cfg
+2013.05.23 16:23:23 3: telnetPort: port 7072 opened
+2013.05.23 16:23:25 3: WEB: port 8083 opened
+2013.05.23 16:23:25 3: WEBphone: port 8084 opened
+2013.05.23 16:23:25 3: WEBtablet: port 8085 opened
+2013.05.23 16:23:26 1: Including ./log/fhem.save
+2013.05.23 16:23:26 1: usb create starting
+2013.05.23 16:23:29 3: Opening CUL device /dev/ttyAMA0
+2013.05.23 16:23:30 3: Setting CUL baudrate to 38400
+2013.05.23 16:23:30 3: CUL device opened
+2013.05.23 16:23:30 1: usb create end
+2013.05.23 16:23:30 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.23 16:23:30 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2039)
+2013.05.23 16:29:44 0: Server shutdown
+2013.05.23 16:30:05 1: Including fhem.cfg
+2013.05.23 16:30:06 3: telnetPort: port 7072 opened
+2013.05.23 16:30:07 3: WEB: port 8083 opened
+2013.05.23 16:30:07 3: WEBphone: port 8084 opened
+2013.05.23 16:30:07 3: WEBtablet: port 8085 opened
+2013.05.23 16:30:08 1: Including ./log/fhem.save
+2013.05.23 16:30:08 1: usb create starting
+2013.05.23 16:30:11 3: Opening CUL device /dev/ttyAMA0
+2013.05.23 16:30:11 3: Setting CUL baudrate to 38400
+2013.05.23 16:30:12 3: CUL device opened
+2013.05.23 16:30:12 1: usb create end
+2013.05.23 16:30:12 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.23 16:30:12 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2012)
+2013.05.23 16:43:53 0: Server shutdown
+2013.05.23 16:44:13 1: Including fhem.cfg
+2013.05.23 16:44:15 3: telnetPort: port 7072 opened
+2013.05.23 16:44:15 3: WEB: port 8083 opened
+2013.05.23 16:44:16 3: WEBphone: port 8084 opened
+2013.05.23 16:44:16 3: WEBtablet: port 8085 opened
+2013.05.23 16:44:16 1: Including ./log/fhem.save
+2013.05.23 16:44:16 1: usb create starting
+2013.05.23 16:44:19 3: Opening CUL device /dev/ttyAMA0
+2013.05.23 16:44:20 3: Setting CUL baudrate to 38400
+2013.05.23 16:44:20 3: CUL device opened
+2013.05.23 16:44:20 1: usb create end
+2013.05.23 16:44:20 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.23 16:44:20 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2022)
+2013.05.23 17:28:10 0: Server shutdown
+2013.05.23 17:28:28 1: Including fhem.cfg
+2013.05.23 17:28:29 3: telnetPort: port 7072 opened
+2013.05.23 17:28:31 3: WEB: port 8083 opened
+2013.05.23 17:28:31 3: WEBphone: port 8084 opened
+2013.05.23 17:28:31 3: WEBtablet: port 8085 opened
+2013.05.23 17:28:31 1: Including ./log/fhem.save
+2013.05.23 17:28:32 1: usb create starting
+2013.05.23 17:28:35 3: Opening CUL device /dev/ttyAMA0
+2013.05.23 17:28:36 3: Setting CUL baudrate to 38400
+2013.05.23 17:28:36 3: CUL device opened
+2013.05.23 17:28:36 1: usb create end
+2013.05.23 17:28:36 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.23 17:28:36 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2032)
+2013.05.24 11:01:25 0: Server shutdown
+2013.05.24 11:01:45 1: Including fhem.cfg
+2013.05.24 11:01:46 3: telnetPort: port 7072 opened
+2013.05.24 11:01:47 3: WEB: port 8083 opened
+2013.05.24 11:01:47 3: WEBphone: port 8084 opened
+2013.05.24 11:01:47 3: WEBtablet: port 8085 opened
+2013.05.24 11:01:49 1: Including ./log/fhem.save
+2013.05.24 11:01:49 1: usb create starting
+2013.05.24 11:01:52 3: Opening CUL device /dev/ttyAMA0
+2013.05.24 11:01:52 3: Setting CUL baudrate to 38400
+2013.05.24 11:01:52 3: CUL device opened
+2013.05.24 11:01:53 1: usb create end
+2013.05.24 11:01:53 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.24 11:01:53 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2006)
+2013.05.24 12:04:42 0: Server shutdown
+2013.05.24 12:05:02 1: Including fhem.cfg
+2013.05.24 12:05:03 3: telnetPort: port 7072 opened
+2013.05.24 12:05:04 3: WEB: port 8083 opened
+2013.05.24 12:05:04 3: WEBphone: port 8084 opened
+2013.05.24 12:05:04 3: WEBtablet: port 8085 opened
+2013.05.24 12:05:05 1: Including ./log/fhem.save
+2013.05.24 12:05:06 1: usb create starting
+2013.05.24 12:05:09 3: Opening CUL device /dev/ttyAMA0
+2013.05.24 12:05:09 3: Setting CUL baudrate to 38400
+2013.05.24 12:05:09 3: CUL device opened
+2013.05.24 12:05:10 1: usb create end
+2013.05.24 12:05:10 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.24 12:05:10 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1980)
+2013.05.24 12:11:20 0: Server shutdown
+2013.05.24 12:11:40 1: Including fhem.cfg
+2013.05.24 12:11:41 3: telnetPort: port 7072 opened
+2013.05.24 12:11:42 3: WEB: port 8083 opened
+2013.05.24 12:11:42 3: WEBphone: port 8084 opened
+2013.05.24 12:11:42 3: WEBtablet: port 8085 opened
+2013.05.24 12:11:44 1: Including ./log/fhem.save
+2013.05.24 12:11:44 1: usb create starting
+2013.05.24 12:11:46 3: Opening CUL device /dev/ttyAMA0
+2013.05.24 12:11:47 3: Setting CUL baudrate to 38400
+2013.05.24 12:11:47 3: CUL device opened
+2013.05.24 12:11:47 1: usb create end
+2013.05.24 12:11:47 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.24 12:11:47 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1998)
+2013.05.24 12:18:19 0: Server shutdown
+2013.05.24 12:18:38 1: Including fhem.cfg
+2013.05.24 12:18:40 3: telnetPort: port 7072 opened
+2013.05.24 12:18:41 3: WEB: port 8083 opened
+2013.05.24 12:18:41 3: WEBphone: port 8084 opened
+2013.05.24 12:18:41 3: WEBtablet: port 8085 opened
+2013.05.24 12:18:41 1: Including ./log/fhem.save
+2013.05.24 12:18:42 1: usb create starting
+2013.05.24 12:18:44 3: Opening CUL device /dev/ttyAMA0
+2013.05.24 12:18:45 3: Setting CUL baudrate to 38400
+2013.05.24 12:18:45 3: CUL device opened
+2013.05.24 12:18:45 1: usb create end
+2013.05.24 12:18:45 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.24 12:18:45 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1982)
+2013.05.24 12:18:35 1: Including fhem.cfg
+2013.05.24 12:18:36 3: telnetPort: port 7072 opened
+2013.05.24 12:18:37 3: WEB: port 8083 opened
+2013.05.24 12:18:37 3: WEBphone: port 8084 opened
+2013.05.24 12:18:37 3: WEBtablet: port 8085 opened
+2013.05.24 12:18:38 1: Including ./log/fhem.save
+2013.05.24 12:18:38 1: usb create starting
+2013.05.24 12:18:41 3: Opening CUL device /dev/ttyAMA0
+2013.05.24 12:18:41 3: Setting CUL baudrate to 38400
+2013.05.24 12:18:41 3: CUL device opened
+2013.05.24 12:18:42 1: usb create end
+2013.05.24 12:18:42 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.24 12:18:42 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1942)
+2013.05.24 14:45:54 0: Server shutdown
+2013.05.24 14:46:13 1: Including fhem.cfg
+2013.05.24 14:46:14 3: telnetPort: port 7072 opened
+2013.05.24 14:46:15 3: WEB: port 8083 opened
+2013.05.24 14:46:15 3: WEBphone: port 8084 opened
+2013.05.24 14:46:15 3: WEBtablet: port 8085 opened
+2013.05.24 14:46:16 1: Including ./log/fhem.save
+2013.05.24 14:46:16 1: usb create starting
+2013.05.24 14:46:19 3: Opening CUL device /dev/ttyAMA0
+2013.05.24 14:46:19 3: Setting CUL baudrate to 38400
+2013.05.24 14:46:19 3: CUL device opened
+2013.05.24 14:46:19 1: usb create end
+2013.05.24 14:46:20 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.24 14:46:20 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1983)
+2013.05.24 17:15:10 0: Server shutdown
+2013.05.24 17:15:28 1: Including fhem.cfg
+2013.05.24 17:15:29 3: telnetPort: port 7072 opened
+2013.05.24 17:15:30 3: WEB: port 8083 opened
+2013.05.24 17:15:30 3: WEBphone: port 8084 opened
+2013.05.24 17:15:30 3: WEBtablet: port 8085 opened
+2013.05.24 17:15:31 1: Including ./log/fhem.save
+2013.05.24 17:15:32 1: usb create starting
+2013.05.24 17:15:34 3: Opening CUL device /dev/ttyAMA0
+2013.05.24 17:15:35 3: Setting CUL baudrate to 38400
+2013.05.24 17:15:35 3: CUL device opened
+2013.05.24 17:15:35 1: usb create end
+2013.05.24 17:15:35 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.24 17:15:35 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1977)
+2013.05.24 17:17:21 1: Including fhem.cfg
+2013.05.24 17:17:23 3: telnetPort: port 7072 opened
+2013.05.24 17:17:24 3: WEB: port 8083 opened
+2013.05.24 17:17:24 3: WEBphone: port 8084 opened
+2013.05.24 17:17:24 3: WEBtablet: port 8085 opened
+2013.05.24 17:17:25 1: Including ./log/fhem.save
+2013.05.24 17:17:25 1: usb create starting
+2013.05.24 17:17:27 3: Opening CUL device /dev/ttyAMA0
+2013.05.24 17:17:28 3: Setting CUL baudrate to 38400
+2013.05.24 17:17:28 3: CUL device opened
+2013.05.24 17:17:28 1: usb create end
+2013.05.24 17:17:28 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.24 17:17:28 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1982)
+2013.05.24 17:17:18 1: Including fhem.cfg
+2013.05.24 17:17:19 3: telnetPort: port 7072 opened
+2013.05.24 17:17:20 3: WEB: port 8083 opened
+2013.05.24 17:17:20 3: WEBphone: port 8084 opened
+2013.05.24 17:17:20 3: WEBtablet: port 8085 opened
+2013.05.24 17:17:21 1: Including ./log/fhem.save
+2013.05.24 17:17:21 1: usb create starting
+2013.05.24 17:17:23 3: Opening CUL device /dev/ttyAMA0
+2013.05.24 17:17:24 3: Setting CUL baudrate to 38400
+2013.05.24 17:17:24 3: CUL device opened
+2013.05.24 17:17:24 1: usb create end
+2013.05.24 17:17:24 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.24 17:17:24 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1958)
+2013.05.24 19:17:17 1: Including fhem.cfg
+2013.05.24 19:17:18 3: telnetPort: port 7072 opened
+2013.05.24 19:17:19 3: WEB: port 8083 opened
+2013.05.24 19:17:19 3: WEBphone: port 8084 opened
+2013.05.24 19:17:19 3: WEBtablet: port 8085 opened
+2013.05.24 19:17:20 1: Including ./log/fhem.save
+2013.05.24 19:17:20 1: usb create starting
+2013.05.24 19:17:23 3: Opening CUL device /dev/ttyAMA0
+2013.05.24 19:17:23 3: Setting CUL baudrate to 38400
+2013.05.24 19:17:23 3: CUL device opened
+2013.05.24 19:17:24 1: usb create end
+2013.05.24 19:17:24 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.24 19:17:24 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1949)
+2013.05.24 19:17:19 1: Including fhem.cfg
+2013.05.24 19:17:20 3: telnetPort: port 7072 opened
+2013.05.24 19:17:21 3: WEB: port 8083 opened
+2013.05.24 19:17:21 3: WEBphone: port 8084 opened
+2013.05.24 19:17:21 3: WEBtablet: port 8085 opened
+2013.05.24 19:17:22 1: Including ./log/fhem.save
+2013.05.24 19:17:22 1: usb create starting
+2013.05.24 19:17:24 3: Opening CUL device /dev/ttyAMA0
+2013.05.24 19:17:25 3: Setting CUL baudrate to 38400
+2013.05.24 19:17:25 3: CUL device opened
+2013.05.24 19:17:25 1: usb create end
+2013.05.24 19:17:25 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.24 19:17:25 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1962)
+2013.05.24 20:17:16 1: Including fhem.cfg
+2013.05.24 20:17:17 3: telnetPort: port 7072 opened
+2013.05.24 20:17:18 3: WEB: port 8083 opened
+2013.05.24 20:17:18 3: WEBphone: port 8084 opened
+2013.05.24 20:17:18 3: WEBtablet: port 8085 opened
+2013.05.24 20:17:19 1: Including ./log/fhem.save
+2013.05.24 20:17:19 1: usb create starting
+2013.05.24 20:17:22 3: Opening CUL device /dev/ttyAMA0
+2013.05.24 20:17:22 3: Setting CUL baudrate to 38400
+2013.05.24 20:17:22 3: CUL device opened
+2013.05.24 20:17:23 1: usb create end
+2013.05.24 20:17:23 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.24 20:17:23 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1932)
+2013.05.24 20:17:16 1: Including fhem.cfg
+2013.05.24 20:17:17 3: telnetPort: port 7072 opened
+2013.05.24 20:17:18 3: WEB: port 8083 opened
+2013.05.24 20:17:18 3: WEBphone: port 8084 opened
+2013.05.24 20:17:18 3: WEBtablet: port 8085 opened
+2013.05.24 20:17:19 1: Including ./log/fhem.save
+2013.05.24 20:17:19 1: usb create starting
+2013.05.24 20:17:22 3: Opening CUL device /dev/ttyAMA0
+2013.05.24 20:17:22 3: Setting CUL baudrate to 38400
+2013.05.24 20:17:22 3: CUL device opened
+2013.05.24 20:17:23 1: usb create end
+2013.05.24 20:17:23 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.24 20:17:23 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1933)
+2013.05.25 09:17:21 1: Including fhem.cfg
+2013.05.25 09:17:22 3: telnetPort: port 7072 opened
+2013.05.25 09:17:23 3: WEB: port 8083 opened
+2013.05.25 09:17:23 3: WEBphone: port 8084 opened
+2013.05.25 09:17:23 3: WEBtablet: port 8085 opened
+2013.05.25 09:17:25 1: Including ./log/fhem.save
+2013.05.25 09:17:25 1: usb create starting
+2013.05.25 09:17:27 3: Opening CUL device /dev/ttyAMA0
+2013.05.25 09:17:28 3: Setting CUL baudrate to 38400
+2013.05.25 09:17:28 3: CUL device opened
+2013.05.25 09:17:28 1: usb create end
+2013.05.25 09:17:28 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.25 09:17:28 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1978)
+2013.05.25 09:17:16 1: Including fhem.cfg
+2013.05.25 09:17:17 3: telnetPort: port 7072 opened
+2013.05.25 09:17:18 3: WEB: port 8083 opened
+2013.05.25 09:17:18 3: WEBphone: port 8084 opened
+2013.05.25 09:17:18 3: WEBtablet: port 8085 opened
+2013.05.25 09:17:19 1: Including ./log/fhem.save
+2013.05.25 09:17:19 1: usb create starting
+2013.05.25 09:17:22 3: Opening CUL device /dev/ttyAMA0
+2013.05.25 09:17:22 3: Setting CUL baudrate to 38400
+2013.05.25 09:17:22 3: CUL device opened
+2013.05.25 09:17:23 1: usb create end
+2013.05.25 09:17:23 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.25 09:17:23 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1937)
+2013.05.25 16:17:25 1: Including fhem.cfg
+2013.05.25 16:17:26 3: telnetPort: port 7072 opened
+2013.05.25 16:17:27 3: WEB: port 8083 opened
+2013.05.25 16:17:27 3: WEBphone: port 8084 opened
+2013.05.25 16:17:27 3: WEBtablet: port 8085 opened
+2013.05.25 16:17:28 1: Including ./log/fhem.save
+2013.05.25 16:17:28 1: usb create starting
+2013.05.25 16:17:31 3: Opening CUL device /dev/ttyAMA0
+2013.05.25 16:17:32 3: Setting CUL baudrate to 38400
+2013.05.25 16:17:32 3: CUL device opened
+2013.05.25 16:17:32 1: usb create end
+2013.05.25 16:17:32 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.25 16:17:32 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2006)
+2013.05.25 16:20:46 0: Server shutdown
+2013.05.25 16:21:01 1: Including fhem.cfg
+2013.05.25 16:21:01 3: telnetPort: port 7072 opened
+2013.05.25 16:21:02 3: WEB: port 8083 opened
+2013.05.25 16:21:02 3: WEBphone: port 8084 opened
+2013.05.25 16:21:02 3: WEBtablet: port 8085 opened
+2013.05.25 16:21:02 1: Including ./log/fhem.save
+2013.05.25 16:21:03 1: usb create starting
+2013.05.25 16:21:05 3: Opening CUL device /dev/ttyAMA0
+2013.05.25 16:21:05 3: Setting CUL baudrate to 38400
+2013.05.25 16:21:05 3: CUL device opened
+2013.05.25 16:21:05 1: usb create end
+2013.05.25 16:21:05 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.25 16:21:05 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 1944)
+2013.05.27 08:49:25 0: Server shutdown
+2013.05.27 08:49:42 1: Including fhem.cfg
+2013.05.27 08:49:43 3: telnetPort: port 7072 opened
+2013.05.27 08:49:43 3: WEB: port 8083 opened
+2013.05.27 08:49:43 3: WEBphone: port 8084 opened
+2013.05.27 08:49:43 3: WEBtablet: port 8085 opened
+2013.05.27 08:49:44 1: Including ./log/fhem.save
+2013.05.27 08:49:44 1: usb create starting
+2013.05.27 08:49:46 3: Opening CUL device /dev/ttyAMA0
+2013.05.27 08:49:46 3: Setting CUL baudrate to 38400
+2013.05.27 08:49:46 3: CUL device opened
+2013.05.27 08:49:47 1: usb create end
+2013.05.27 08:49:47 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.27 08:49:47 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2020)
+2013.05.27 09:49:01 0: Server shutdown
+2013.05.27 09:49:18 1: Including fhem.cfg
+2013.05.27 09:49:19 3: telnetPort: port 7072 opened
+2013.05.27 09:49:19 3: WEB: port 8083 opened
+2013.05.27 09:49:19 3: WEBphone: port 8084 opened
+2013.05.27 09:49:19 3: WEBtablet: port 8085 opened
+2013.05.27 09:49:20 1: Including ./log/fhem.save
+2013.05.27 09:49:20 1: usb create starting
+2013.05.27 09:49:22 3: Opening CUL device /dev/ttyAMA0
+2013.05.27 09:49:22 3: Setting CUL baudrate to 38400
+2013.05.27 09:49:22 3: CUL device opened
+2013.05.27 09:49:23 1: usb create end
+2013.05.27 09:49:23 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.27 09:49:23 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2022)
+2013.05.28 10:08:17 0: Server shutdown
+2013.05.28 10:08:40 1: Including fhem.cfg
+2013.05.28 10:08:41 3: telnetPort: port 7072 opened
+2013.05.28 10:08:41 3: WEB: port 8083 opened
+2013.05.28 10:08:41 3: WEBphone: port 8084 opened
+2013.05.28 10:08:41 3: WEBtablet: port 8085 opened
+2013.05.28 10:08:41 1: Including ./log/fhem.save
+2013.05.28 10:08:42 1: usb create starting
+2013.05.28 10:08:43 3: Opening CUL device /dev/ttyAMA0
+2013.05.28 10:08:44 3: Setting CUL baudrate to 38400
+2013.05.28 10:08:44 3: CUL device opened
+2013.05.28 10:08:44 1: usb create end
+2013.05.28 10:08:44 2: SecurityCheck:  WEB,WEBphone,WEBtablet has no basicAuth attribute. telnetPort has no password/globalpassword attribute.  Restart fhem for a new check if the problem is fixed, or set the global attribute motd to none to supress this message. 
+2013.05.28 10:08:44 0: Server started with 9 defined entities (version Fhem 5.4 (DEVELOPMENT), $Id: fhem.pl 3008 2013-04-01 11:19:27Z rudolfkoenig $, pid 2047)

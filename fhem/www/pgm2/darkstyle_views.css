@@ -1,0 +1,46 @@
+
+.viewoptionbar { background: none repeat scroll 0 0 #333333; border: 1px solid #FFFFFF;
+				 box-shadow: 5px 5px 5px #000000; padding: 0px; }
+.viewoptionbutton { display: inline-block; color: #1c94c4; font-weight: bold;
+					font-size: 0.7em; background-repeat:no-repeat;
+					background-position: 4px 2px; background-color: #000000;  
+					border-radius: 8px; border: 1px solid #cccccc;
+					padding: 0.4em 1em 0.4em 2em; }
+.viewoptionbutton-changed { color: red; font-weight:bold; }
+
+/*.ui-row { height: 100px; margin-top: 4px; }*/
+
+.ui-column { height: 440px; float: left; margin-top: 4px; }
+.ui-column-showhelper { border: 1px dotted #CCCCCC; }
+
+.ui-sortable-placeholder { border: 1px dotted #FFFFFF;  visibility: visible !important; 
+						   height: 25px !important; width: 150px; }	  
+
+.ui-widget { border-radius: 8px; float: left; } 
+.ui-widget-showhelper { background-color: #111111; }
+.ui-widget-header { background: none repeat scroll 0 0 #333333; border: 1px solid #FFFFFF;
+					box-shadow: 5px 5px 5px #000000; border-radius: 8px; margin: 0.2em; 
+					padding-bottom: 4px; padding-top: 3px; padding-left: 0.7em;	}
+.ui-widget-content { padding: 0.2em; }
+
+.ui-resizable { position: relative; }
+.ui-resizable-handle { position: absolute; font-size: 0.1px; }
+
+.ui-resizable-s { cursor: s-resize; height: 7px; width: 100%; bottom: 0px; }
+.ui-resizable-e { cursor: e-resize; width: 7px; right: 0px; top: 0; height: 100%; }
+.ui-resizable-se { cursor: se-resize; width: 12px; height: 12px; right: 1px;
+				   bottom: 1px; background-image: url(../images/default/view_grip_diagonal.png);
+				   background-repeat: no-repeat; background-position: center; }
+
+.ui-icon { width: 16px; height: 16px; display: block; text-indent: -99999px;
+		   overflow: hidden; background-repeat: no-repeat; margin: 0.2em; 
+		   padding-left: 0.2em;	float: right; }
+.ui-icon-plus { background-image: url(../images/default/view_plus.png); }
+.ui-icon-minus { background-image: url(../images/default/view_minus.png); }
+.ui-icon-set { background-image: url(../images/default/view_set.png); }
+.ui-icon-lock { background-image: url(../images/default/view_lock.png); }
+.ui-icon-unlock { background-image: url(../images/default/view_unlock.png); }
+
+
+
+
