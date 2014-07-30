@@ -1,0 +1,25 @@
+# Uebergabeparameter Portnummer des internen Analogeingangs
+params Temp
+# Umsetzung in ECMD Befehle
+# value = Rückgabewert in 0-100%, je nach eingestelltem Referenzwert im Attribut "Referenz"
+#  Gleichzeitig wird das Reading "status" gesetzt, je nach eingestelltem Schwellwert
+#  status = on => gemessener Wert liegt unter dem Schwellwert
+#  status = off => gemessener Wert liegt über dem Schwellwert
+#  tvalue = originaler Rückgabewert des NET-IO in Dec umgerechnet um einen Referenzwert ermitteln zu können
+get value cmd {"get %Temp"}
+get value postproc {\
+ my $hexval = hex(trim("$_"));\
+ my $refval = trim(AttrVal("%NAME","referenz",1024));\
+ my $retval = $hexval*100/$refval;\
+ my $hash  = $defs{%NAME};\
+ my $status = "off";\
+ my $schwellwert = trim(AttrVal("%NAME","schwellwert",30));\
+ \
+ $status = "on" if ($retval < $schwellwert);\
+ \
+ readingsSingleUpdate($hash, "status", $status, 1);\
+ \
+ $retval;\
+}
+get tvalue cmd {"get %Temp"}
+get tvalue postproc {hex(trim("$_"))}

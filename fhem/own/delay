@@ -1,0 +1,8 @@
+#!/usr/bin/perl -w
+use strict;
+use Time::HiRes ('sleep');
+
+print STDERR 'Pausing:';
+sleep(1.00); ## Sleep  100ms
+print STDERR 'done',"\n";
+

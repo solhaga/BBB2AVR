@@ -1,0 +1,27 @@
+# Uebergabeparameter des Mess-Kanals zum AVR
+# 0 = Messe AussenTemp.
+# 1 = Messe KW3 Temp
+# 2 = Messe KW9 Temp
+# 3 = Messe Sol Temp
+# 4 = Messe KW9 Temp
+
+# M = Messung starten
+params Temp
+
+
+get value cmd {"%Temp\r"}
+
+get T cmd {"temp %Temp\r"}
+get T postproc {("$_" );}
+
+get Tvalue3 cmd {"%Temp\r"}
+get Tvalue3 postproc {("$_" );}
+
+get Tvalue9 cmd {"%Temp\r"}
+get Tvalue9 postproc {("$_" );}
+
+get TvalueS cmd {"%Temp\r"}
+get TvalueS postproc {("$_" );}
+
+get TvalueV cmd {"%Temp\r"}
+get TvalueV postproc {("$_" );}

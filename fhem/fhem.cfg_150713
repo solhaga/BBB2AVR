@@ -1,0 +1,196 @@
+attr global autoload_undefined_devices 1
+attr global latitude 57.51969
+attr global logfile ./log/fhem-%Y-%m.log
+attr global longitude 16.14650
+attr global modpath .
+attr global statefile ./log/fhem.save
+attr global userattr devStateIcon fp_EG fp_OG icon sortby webCmd
+attr global verbose 3
+
+
+
+define RPi GPIO4 BUSMASTER
+
+define Temperatursensor1 GPIO4 10-0008019c7157
+attr Temperatursensor1 group Sensoren
+attr Temperatursensor1 icon icoTemp
+attr Temperatursensor1 model DS18B20
+attr Temperatursensor1 pollingInterval 60
+attr Temperatursensor1 room Sensoren
+attr Temperatursensor1 stateFormat {sprintf ("%.1f",ReadingsVal("Temperatursensor1","temperature",0))."°C"}
+
+define FileLog_Temperatursensor1 FileLog /opt/fhem/log/Temperatursensor1-%Y-%m.log Temperatursensor1:T:.*
+attr FileLog_Temperatursensor1 logtype temp4:Temp,text
+attr FileLog_Temperatursensor1 room Sensoren
+define weblink_Temperatursensor1 weblink fileplot FileLog_Temperatursensor1:temp4:CURRENT
+attr weblink_Temperatursensor1 label "Innen - Min $data{min1}, Max $data{max1}, Last $data{currval1}"
+attr weblink_Temperatursensor1 plotsize 800,280
+attr weblink_Temperatursensor1 room Plots
+
+define Temperatursensor2 GPIO4 10-000801a30292
+attr Temperatursensor2 fp_EG 35,200,0,
+attr Temperatursensor2 fp_OG 45,220,0,
+attr Temperatursensor2 group Sensoren
+attr Temperatursensor2 icon icoTempHausOG
+attr Temperatursensor2 model DS18B20
+attr Temperatursensor2 pollingInterval 60
+attr Temperatursensor2 room Sensoren
+attr Temperatursensor2 stateFormat {sprintf("%.1f",ReadingsVal("Temperatursensor2","temperature",0))."°C"}
+
+define FileLog_Temperatursensor2 FileLog /opt/fhem/log/Temperatursensor2-%Y-%m.log Temperatursensor2:T:.*
+attr FileLog_Temperatursensor2 logtype temp4:Temp,text
+attr FileLog_Temperatursensor2 room Sensoren
+define weblink_Temperatursensor2 weblink fileplot FileLog_Temperatursensor2:temp4:CURRENT
+attr weblink_Temperatursensor2 label "Aussen - Min $data{min1}, Max $data{max1}, Last $data{currval1}"
+attr weblink_Temperatursensor2 plotsize 800,280
+attr weblink_Temperatursensor2 room Plots
+
+#########################################################
+# Icons müssen folgende Bezeichnung haben:  
+#  Wohnzimmer.AUS.png   /    Wohnzimmer.EIN.png
+
+define TestDose dummy
+attr TestDose eventMap on:EIN off:AUS
+attr TestDose group Test
+attr TestDose room Lampen
+attr TestDose setList on off
+define on_TestDose notify TestDose:on "./send 10001 10001 1"
+define off_TestDose notify TestDose:off "./send 10001 10001 0"
+
+define Test_on at *{sunset(-3600,"13:00","23:50")} set TestDose on
+define Test_aus at *{sunrise(0,"03:00","07:30")} set TestDose off
+
+
+define Fluroben dummy
+attr Fluroben eventMap on:EIN off:AUS
+attr Fluroben fp_OG 305,460,0,
+attr Fluroben group OG
+attr Fluroben room Lampen
+attr Fluroben setList on off
+define on_Fluroben notify Fluroben:on "./send 10000 00010 1"
+define off_Fluroben notify Fluroben:off "./send 10000 00010 0"
+define Fluroben_on at *{sunset(-4200,"13:00","23:50")} set Fluroben on
+
+
+define Arbeitszimmer dummy
+attr Arbeitszimmer eventMap on:EIN off:AUS
+attr Arbeitszimmer fp_EG 50,100
+attr Arbeitszimmer fp_OG 190,280,0,
+attr Arbeitszimmer group OG
+attr Arbeitszimmer room Lampen
+attr Arbeitszimmer setList on off
+define on_Arbeitszimmer notify Arbeitszimmer:on "./send 11100 00000 1"
+define off_Arbeitszimmer notify Arbeitszimmer:off "./send 11100 00000 0"
+define Arbeitszimmer_on at *{sunset(-3600,"13:00","23:50")} set Arbeitszimmer on
+
+
+define Wohnzimmer dummy
+attr Wohnzimmer eventMap on:EIN off:AUS
+attr Wohnzimmer fp_EG 150,70,0,
+attr Wohnzimmer group EG
+attr Wohnzimmer room Lampen
+attr Wohnzimmer setList on off
+define on_Wohnzimmer notify Wohnzimmer:on "./send 01111 10000 1"
+define off_Wohnzimmer notify Wohnzimmer:off "./send 01111 10000 0"
+define Wohnzimmer_on at *{sunset(-4200,"13:00","23:50")} set Wohnzimmer on
+
+
+define Gaestezimmer dummy
+attr Gaestezimmer eventMap on:EIN off:AUS
+attr Gaestezimmer fp_EG 275,70,0,
+attr Gaestezimmer group EG
+attr Gaestezimmer room Lampen
+attr Gaestezimmer setList on off
+define on_Gaestezimmer notify Gaestezimmer:on "./send 11000 00010 1"
+define off_Gaestezimmer notify Gaestezimmer:off "./send 11000 00010 0"
+define Gaestezimmer_on at *{sunset(-4200,"13:00","23:50")} set Gaestezimmer on
+
+define Lesezimmer dummy
+attr Lesezimmer eventMap on:EIN off:AUS
+attr Lesezimmer fp_OG 270,92,0,
+attr Lesezimmer group OG
+attr Lesezimmer room Lampen
+attr Lesezimmer setList on off
+define on_Lesezimmer notify Lesezimmer:on "./send 10000 00001 1"
+define off_Lesezimmer notify Lesezimmer:off "./send 10000 00001 0"
+define Lesezimmer_on at *{sunset(-4200,"13:00","23:50")} set Lesezimmer on
+
+
+
+define Halle dummy
+attr Halle eventMap on:EIN off:AUS
+attr Halle fp_EG 410,320,0,
+attr Halle group EG
+attr Halle room Lampen
+attr Halle setList on off
+define on_Halle notify Halle:on "./send 11000 00001 1"
+define off_Halle notify Halle:off "./send 11000 00001 0"
+define Halle_on at *{sunset(-4300,"13:00","23:50")} set Halle on
+
+
+######## Aussen Beleuchtung ############################################
+
+define Parkplatz dummy
+attr Parkplatz eventMap on:EIN off:AUS
+attr Parkplatz fp_EG 120,575,0,
+attr Parkplatz group Aussen
+attr Parkplatz room Lampen
+attr Parkplatz setList on off
+define on_Parkplatz notify Parkplatz:on "./send 11110 00010 1"
+define off_Parkplatz notify Parkplatz:off "./send 11110 00010 0"
+
+
+define Garten1 dummy
+attr Garten1 eventMap on:EIN off:AUS
+attr Garten1 fp_EG 450,60,0,
+attr Garten1 group Aussen
+attr Garten1 room Lampen
+attr Garten1 setList on off
+
+define on_Garten1 notify Garten1:on "./send 11110 10000 1"
+define off_Garten1 notify Garten1:off "./send 11110 10000 0"
+
+
+define Garten2 dummy
+attr Garten2 eventMap on:EIN off:AUS
+attr Garten2 fp_EG 450,560,0,
+attr Garten2 group Aussen
+attr Garten2 room Lampen
+attr Garten2 setList on off
+
+define on_Garten2 notify Garten2:on "./send 11110 01000 1"
+define off_Garten2 notify Garten2:off "./send 11110 01000 0"
+
+######################################################################
+define telnetPort telnet 7072 global
+
+define WEB FHEMWEB 8083 global
+attr WEB basicAuth { "admin:sirius" }
+attr WEB stylesheetPrefix darktouchpad
+
+define WEBphone FHEMWEB 8084 global
+attr WEBphone basicAuth { "user:cad-cam" }
+attr WEBphone stylesheetPrefix smallscreen
+
+define WEBtablet FHEMWEB 8085 global
+attr WEBtablet basicAuth { "user:cad-cam" }
+attr WEBtablet stylesheetPrefix smallscreen
+
+# Fake FileLog entry, to access the fhem log from FHEMWEB 
+define Logfile FileLog ./log/fhem-%Y-%m.log fakelog
+
+
+
+
+define EG FLOORPLAN
+attr EG commandfield 1
+attr EG fp_arrange WEB
+attr EG fp_noMenu 1
+
+define OG FLOORPLAN
+attr OG commandfield 1
+attr OG fp_arrange WEB
+attr OG fp_noMenu 1
+
+
+

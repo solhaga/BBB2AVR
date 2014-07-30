@@ -1,0 +1,270 @@
+#Thu Mar 13 12:09:51 2014
+setstate 3KW initial
+setstate 9KW initial
+setstate AVRRESET1 active
+setstate AVRRESET2 active
+setstate AVRreset value V4.02
+setstate AVRreset 2014-02-12 17:45:29 state value V4.02
+setstate AVRreset 2014-02-12 17:45:29 value V4.02
+setstate AVRrestart Reset
+setstate AVRrestart 2014-02-12 17:45:26 state on
+setstate AddLog_TNStatus Next: 13:10:00
+setstate AddLog_UrlaubStatus Next: 13:10:00
+setstate Arbeitszimmer AUS
+setstate Arbeitszimmer 2014-03-13 09:15:37 state off
+setstate Arbeitszimmer_off Next: 22:35:00
+setstate Arbeitszimmer_on Next: 17:48:23
+setstate AussenTemp 13.3°C
+setstate AussenTemp 2014-03-13 12:08:04 T 13.3
+setstate AussenTemp 2013-12-06 13:09:32 failures 0
+setstate AussenTemp 2014-03-13 12:08:04 state T 13.3
+setstate AussenTemp 2013-11-26 08:39:59 temperature -9.1
+setstate AussenTempMessung Next: 12:12:02
+setstate Aussenalle AUS
+setstate Aussenalle 2014-03-08 15:15:22 state off
+setstate BWStatus AUS
+setstate BWStatus 2014-03-13 07:20:00 state off
+setstate BWasser_aus waiting...
+setstate BWasser_aus 2014-03-13 12:09:49 nextUpdate Heute, 12:10:19
+setstate BWasser_aus 2014-03-13 12:09:49 nextValue ???
+setstate BWasser_aus 2014-03-13 12:09:49 state waiting...
+setstate BWasser_ein waiting...
+setstate BWasser_ein 2014-03-13 12:09:49 nextUpdate Heute, 12:10:19
+setstate BWasser_ein 2014-03-13 12:09:49 nextValue ???
+setstate BWasser_ein 2014-03-13 12:09:49 state waiting...
+setstate BWsteuerung_ein Next: 12:10:51
+setstate EG EG
+setstate EGOG EGOG
+setstate EGOG 2013-07-24 13:49:36 state off
+setstate EGalle AUS
+setstate EGalle 2014-03-13 09:14:13 state off
+setstate EOG AUS
+setstate EOG 2014-03-13 09:15:37 state off
+setstate FileLog_AussenTemp active
+setstate FileLog_HausTemp active
+setstate FileLog_HeizTemp active
+setstate FileLog_KW3 active
+setstate FileLog_KW3Temp active
+setstate FileLog_KW9 active
+setstate FileLog_KW9Temp active
+setstate FileLog_LaP active
+setstate FileLog_RaumTemp active
+setstate FileLog_SolTemp active
+setstate FileLog_TNStatus active
+setstate FileLog_Tank2Temp active
+setstate FileLog_Tank3Temp active
+setstate FileLog_UrlaubStatus active
+setstate FileLog_VorlTemp active
+setstate FileLog_ZiP active
+setstate Fluroben AUS
+setstate Fluroben 2014-03-13 09:00:00 state off
+setstate Fluroben_morgen_off Next: 09:00:00
+setstate Fluroben_morgen_on Next: 07:14:10
+setstate Fluroben_off Next: 23:45:00
+setstate Fluroben_on Next: 17:11:43
+setstate Gaestezimmer AUS
+setstate Gaestezimmer 2014-03-12 22:31:00 state off
+setstate Gaestezimmer_off Next: 22:31:00
+setstate Gaestezimmer_on Next: 17:19:23
+setstate Garten1 AUS
+setstate Garten1 2014-03-08 15:15:10 state off
+setstate Garten2 AUS
+setstate Garten2 2014-03-08 15:15:02 state off
+setstate Garten3 AUS
+setstate Garten3 2014-03-08 15:15:22 state off
+setstate Halle AUS
+setstate Halle 2014-03-13 09:14:13 state off
+setstate Halle_morgen_off Next: 09:14:13
+setstate Halle_morgen_on Next: 07:14:00
+setstate Halle_off Next: 22:25:00
+setstate Halle_on Next: 17:13:23
+setstate HausGraph initial
+setstate HausTempGraph HausTempGraph
+setstate Heiz EIN
+setstate Heiz 2013-12-15 14:36:27 state on
+setstate HeizGraph initial
+setstate HeizTempGraph HeizTempGraph
+setstate Heizung Heizung
+setstate HeizungStatus HeizungStatus
+setstate HeizungTablet HeizungTablet
+setstate KW3 AUS
+setstate KW3 2014-03-13 12:09:28 state off
+setstate KW3Heizer Actoff 0
+setstate KW3Heizer 2014-03-13 12:09:28 Actoff 0
+setstate KW3Heizer 2014-03-13 07:07:44 Acton 1
+setstate KW3Heizer 2014-03-13 12:09:28 state Actoff 0
+setstate KW3Temp 65.8°C
+setstate KW3Temp 2014-03-13 12:09:23 T 65.8
+setstate KW3Temp 2013-11-14 14:48:28 off 0
+setstate KW3Temp 2013-11-14 14:48:23 on 0
+setstate KW3Temp 2014-03-13 12:09:23 state T 65.8
+setstate KW3TempMessung Next: 12:12:04
+setstate KW9 AUS
+setstate KW9 2014-03-05 11:29:17 state off
+setstate KW9Heizer Actoff 0
+setstate KW9Heizer 2014-03-05 11:29:17 Actoff 0
+setstate KW9Heizer 2014-03-05 11:28:57 Acton 1
+setstate KW9Heizer 2014-03-05 11:29:17 state Actoff 0
+setstate KW9Temp 65.4°C
+setstate KW9Temp 2014-03-13 12:07:47 T 65.4
+setstate KW9Temp 2014-03-13 12:07:47 state T 65.4
+setstate KW9TempMessung Next: 12:12:10
+setstate LaP AUS
+setstate LaP 2014-03-13 12:09:28 state off
+setstate LaPPumpe Actoff 0
+setstate LaPPumpe 2014-03-13 12:09:28 Actoff 0
+setstate LaPPumpe 2014-03-12 22:11:26 Acton 1
+setstate LaPPumpe 2014-03-13 12:09:28 state Actoff 0
+setstate LaPsteuerung Next: 12:10:51
+setstate Ladepumpe initial
+setstate Lesezimmer AUS
+setstate Lesezimmer 2014-03-13 09:15:00 state off
+setstate Lesezimmer_morgen_off Next: 09:15:00
+setstate Lesezimmer_morgen_on Next: 07:13:00
+setstate Lesezimmer_off Next: 22:32:00
+setstate Lesezimmer_on Next: 17:14:43
+setstate LichtStatus LichtStatus
+setstate Logfile active
+setstate MTemp value OK
+setstate MTemp 2014-03-13 12:09:10 state value OK
+setstate MTemp 2014-03-13 12:09:10 value OK
+setstate MasterMessung Next: 12:11:49
+setstate MaxCounterAT Next: 00:00:00
+setstate MessAll Messen
+setstate MessAll 2014-03-12 18:43:15 state on
+setstate MessenAlles1 active
+setstate MessenAlles2 active
+setstate NachtTemp waiting...
+setstate NachtTemp 2014-03-13 12:09:49 nextUpdate Heute, 12:10:19
+setstate NachtTemp 2014-03-13 12:09:49 nextValue ???
+setstate NachtTemp 2014-03-13 12:09:49 state waiting...
+setstate OG OG
+setstate OGalle AUS
+setstate OGalle 2014-03-13 09:15:37 state off
+setstate Parkplatz AUS
+setstate Parkplatz 2014-03-07 21:57:36 state off
+setstate RaumTemp 21.8°C
+setstate RaumTemp 2014-03-13 12:07:48 T 21.8
+setstate RaumTemp 2013-11-14 15:01:54 off 0
+setstate RaumTemp 2013-11-14 15:02:03 on 0
+setstate RaumTemp 2014-03-13 12:07:48 state T 21.8
+setstate RaumTempMessung Next: 12:11:54
+setstate SHCVersion T V4.02
+setstate SHCVersion 2014-01-09 15:20:56 Actoff 0
+setstate SHCVersion 2014-02-12 17:36:31 T V4.02
+setstate SHCVersion 2014-01-09 15:21:30 TX 0
+setstate SHCVersion 2014-02-12 17:36:31 state T V4.02
+setstate SolTemp 69.2°C
+setstate SolTemp 2014-03-13 12:07:18 T 69.2
+setstate SolTemp 2014-03-13 12:07:18 state T 69.2
+setstate SolTempMessung Next: 12:13:14
+setstate Solar initial
+setstate TNStatus Tag
+setstate TNStatus 2014-03-13 06:15:00 state on
+setstate TX433AZ TXoff 111000000001
+setstate TX433AZ 2014-03-13 09:15:37 TXoff 111000000001
+setstate TX433AZ 2014-03-13 09:15:36 TXon 111000000010
+setstate TX433AZ 2014-03-13 09:15:37 state TXoff 111000000001
+setstate TX433FlO TXoff 100000001001
+setstate TX433FlO 2014-03-13 09:00:00 TXoff 100000001001
+setstate TX433FlO 2014-03-13 07:14:10 TXon 100000001010
+setstate TX433FlO 2014-03-13 09:00:00 state TXoff 100000001001
+setstate TX433G1 TXoff 111100100001
+setstate TX433G1 2014-03-08 15:15:10 TXoff 111100100001
+setstate TX433G1 2014-03-08 15:15:05 TXon 111100100010
+setstate TX433G1 2014-03-08 15:15:10 state TXoff 111100100001
+setstate TX433G2 TXoff 111101000001
+setstate TX433G2 2014-03-08 15:15:02 TXoff 111101000001
+setstate TX433G2 2014-03-08 15:14:52 TXon 111101000010
+setstate TX433G2 2014-03-08 15:15:02 state TXoff 111101000001
+setstate TX433G3 TXoff 111100010001
+setstate TX433G3 2014-03-08 15:15:22 TXoff 111100010001
+setstate TX433G3 2014-03-08 15:15:16 TXon 111100010010
+setstate TX433G3 2014-03-08 15:15:22 state TXoff 111100010001
+setstate TX433GZ TXoff 110000001001
+setstate TX433GZ 2014-03-12 22:31:00 TXoff 110000001001
+setstate TX433GZ 2014-03-12 17:17:10 TXon 110000001010
+setstate TX433GZ 2014-03-12 22:31:00 state TXoff 110000001001
+setstate TX433Ha TXoff 110000000101
+setstate TX433Ha 2014-03-13 09:14:13 TXoff 110000000101
+setstate TX433Ha 2014-03-13 07:14:00 TXon 110000000110
+setstate TX433Ha 2014-03-13 09:14:13 state TXoff 110000000101
+setstate TX433LZ TXoff 100000000101
+setstate TX433LZ 2014-03-13 09:15:00 TXoff 100000000101
+setstate TX433LZ 2014-03-13 07:13:00 TXon 100000000110
+setstate TX433LZ 2014-03-13 09:15:00 state TXoff 100000000101
+setstate TX433Pp TXoff 111100001001
+setstate TX433Pp 2014-03-07 21:57:36 TXoff 111100001001
+setstate TX433Pp 2014-03-07 17:40:21 TXon 111100001010
+setstate TX433Pp 2014-03-07 21:57:36 state TXoff 111100001001
+setstate TX433WZ1 TXoff 011111000001
+setstate TX433WZ1 2014-03-11 16:42:46 TXoff 011111000001
+setstate TX433WZ1 2014-03-10 18:26:10 TXon 011111000010
+setstate TX433WZ1 2014-03-11 16:42:46 state TXoff 011111000001
+setstate TagNacht initial
+setstate TagTemp waiting...
+setstate TagTemp 2014-03-13 12:09:49 nextUpdate Heute, 12:10:19
+setstate TagTemp 2014-03-13 12:09:49 nextValue ???
+setstate TagTemp 2014-03-13 12:09:49 state waiting...
+setstate Tank1_KW3 initial
+setstate Tank1_KW9 initial
+setstate Tank2 initial
+setstate Tank2Temp 56.6°C
+setstate Tank2Temp 2014-03-13 12:09:28 T 56.6
+setstate Tank2Temp 2014-03-13 12:09:28 state T 56.6
+setstate Tank2TempMessung Next: 12:12:24
+setstate Tank3 initial
+setstate Tank3Temp 24.5°C
+setstate Tank3Temp 2014-03-13 12:08:28 T 24.5
+setstate Tank3Temp 2014-03-13 12:08:28 state T 24.5
+setstate Tank3TempMessung Next: 12:12:29
+setstate Urlaub initial
+setstate UrlaubStatus imHaus
+setstate UrlaubStatus 2014-02-22 13:21:31 state off
+setstate VorlTemp 37.3°C
+setstate VorlTemp 2014-03-13 12:08:38 T 37.3
+setstate VorlTemp 2014-03-13 12:08:38 state T 37.3
+setstate VorlTempMessung Next: 12:12:19
+setstate Vorlauf initial
+setstate Wohnzimmer1 AUS
+setstate Wohnzimmer1 2014-03-11 16:42:46 state off
+setstate ZiP AUS
+setstate ZiP 2014-03-13 12:08:58 state off
+setstate ZiPPumpe Actoff 0
+setstate ZiPPumpe 2014-03-13 12:08:58 Actoff 0
+setstate ZiPPumpe 2014-03-12 13:22:53 Acton 1
+setstate ZiPPumpe 2014-03-13 12:08:58 state Actoff 0
+setstate ZiPsteuerung_Nacht Next: 12:10:57
+setstate ZiPsteuerung_Tag Next: 12:10:54
+setstate Zirkulationspumpe initial
+setstate aussen initial
+setstate global <no definition>
+setstate innen initial
+setstate off_Arbeitszimmer active
+setstate off_Fluroben active
+setstate off_Gaestezimmer active
+setstate off_Garten1 active
+setstate off_Garten2 active
+setstate off_Garten3 active
+setstate off_Halle active
+setstate off_KW3 active
+setstate off_KW9 active
+setstate off_LaP active
+setstate off_Lesezimmer active
+setstate off_Parkplatz active
+setstate off_Wohnzimmer1 active
+setstate off_ZiP active
+setstate on_Arbeitszimmer active
+setstate on_Fluroben active
+setstate on_Gaestezimmer active
+setstate on_Garten1 active
+setstate on_Garten2 active
+setstate on_Garten3 active
+setstate on_Halle active
+setstate on_KW3 active
+setstate on_KW9 active
+setstate on_LaP active
+setstate on_Lesezimmer active
+setstate on_Parkplatz active
+setstate on_Wohnzimmer1 active
+setstate on_ZiP active

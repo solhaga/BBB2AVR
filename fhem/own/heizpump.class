@@ -1,0 +1,29 @@
+# Uebergabeparameter des Mess-Kanals zum AVR
+#
+
+params Temp
+
+#
+# Temperaturen
+get value cmd {"temp %Temp\r"}
+
+get T cmd {"temp %Temp\r"}
+get S cmd {"stat %Temp\r"}
+set TX cmd {"%Temp\r"}
+get TX cmd {"%Temp\r"}
+#
+# Pumpen/Heizer
+set Acton cmd {"IHC %Temp 1\r"}
+set Actoff cmd {"IHC %Temp 0\r"}
+get Acton cmd {"IHC %Temp 1\r"}
+get Actoff cmd {"IHC %Temp 0\r"}
+#
+# TX433 / Lichter
+set TXon cmd {"%Temp10\r"}
+set TXoff cmd {"%Temp01\r"}
+#
+get rst cmd {"IHC %Temp\r"}
+
+
+get T postproc {("$_" );}
+

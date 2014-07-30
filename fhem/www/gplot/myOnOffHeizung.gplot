@@ -1,0 +1,39 @@
+############################
+
+#2013-04-07_18:18:21 SHUTTER.BRENNER cntPerDay: 18
+#2013-04-07_18:19:45 SHUTTER.BRENNER onoff: 0
+#2013-04-07_18:19:46 SHUTTER.BRENNER cntOntimeIncrement: 85
+#2013-04-07_18:19:46 SHUTTER.BRENNER cntOntimePerDayHours:   0.4489
+#SHUTTER.BRENNER
+
+set terminal png transparent size <SIZE> crop
+set output '<OUT>.png'
+set xdata time
+set timefmt "%Y-%m-%d_%H:%M:%S"
+set xlabel " "
+set title '<TL>'
+
+set yrange [-15:50]
+set y2range [-15:19]
+set ylabel "Starts/Einschaltdauer [min]"
+set y2label "[h]"
+set grid xtics y2tics
+
+#       <col of val>:<regexp>:<default>:<fn>
+#FileLog 4:onoff\x3a:0:$fld[3]=~"1"?-2:-19
+#FileLog 4:cntPerDay\x3a:0:
+#FileLog 4:cntOntimePerDayHours\x3a:0:
+#FileLog 4:cntOntimeIncrement\x3a:0:$fld[3]=$fld[3]/60
+
+
+plot \
+  "< awk '/onoff:/ {print $1, $4}' <IN>"\
+        using 1:2 axes x1y1 title 'Brenner EIN' with steps \
+  "< awk '/cntPerDay:/ {print $1, $4}' <IN>"\
+        using 1:2 axes x1y1 title 'Brenner-Starts (y1)' with steps \
+  "< awk '/cntOntimePerDayHours:/ {print $1, $4}' <IN>"\
+        using 1:2 axes x1y2 title 'Betriebsstunden (y2)' with steps \
+  "< awk '/cntOntimeIncrement:/ {print $1, $4}' <IN>"\
+        using 1:2 axes x1y1 title 'Dauer (min) (y1)' with steps \
+
+

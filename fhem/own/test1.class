@@ -1,0 +1,36 @@
+
+#params pinmask
+#set on cmd {"io set ddr 2 ff\nioset port 2 0%pinmask\nwait 1000\nio set port 2 00"}
+#set on postproc {s/^OK\nOK\nOK\nOK$/success/; "$_" eq "success" ? "ok" : "error"; }
+
+
+#get t1state cmd {"temp"}
+#set on cmd {"t0\n"}
+#set resetstate cmd {"pin set ausgang%NUM 0"} 
+
+
+# Uebergabeparameter Portnummer des internen Analogeingangs
+params PortID
+# Umsetzung in ECMD Befehle
+# value = Rückgabewert in 0-100%, je nach eingestelltem Referenzwert im Attribut "Referenz"
+#  Gleichzeitig wird das Reading "status" gesetzt, je nach eingestelltem Schwellwert
+#  status = on => gemessener Wert liegt unter dem Schwellwert
+#  status = off => gemessener Wert liegt über dem Schwellwert
+# portvalue = originaler Rückgabewert des NET-IO in Dec umgerechnet um einen Referenzwert ermitteln zu können 
+get value cmd {"t %PortID"}
+get value postproc {\
+ my $hexval = hex(trim("$_"));\
+ my $refval = trim(AttrVal("%NAME","referenz",1024));\
+ my $retval = $hexval*100/$refval;\
+ my $hash  = $defs{%NAME};\
+ my $status = "off";\
+ my $schwellwert = trim(AttrVal("%NAME","schwellwert",30));\
+ \
+ $status = "on" if ($retval < $schwellwert);\
+ \
+ readingsSingleUpdate($hash, "status", $status, 1);\
+ \
+ $retval;\
+}
+get TEMPA cmd {"t %PortID"}
+get TEMPA postproc {hex(trim("$_"))}

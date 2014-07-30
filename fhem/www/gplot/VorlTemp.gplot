@@ -1,0 +1,65 @@
+#
+# Display the measured temperature for Oregon sensors
+#
+# FileLog definition: 
+# define <filelogname> FileLog /var/log/fhem/<devname>-%Y.log <devname>
+# Filelog example:
+# define FileLog_THR128_08 FileLog /var/log/fhem/THR128_08-%Y.log THR128_08
+#
+# Logfile record example:
+#2010-08-10_18:00:01 THR128_04 temperature: 20.7
+#
+
+# Attribute 'small' is useful for gnuplot/-scroll only,
+# if plotsize is less than 800,400
+#set terminal png transparent small size <SIZE> crop
+
+set terminal png transparent size <SIZE> crop
+
+set output '<OUT>.png'
+set xdata time
+set timefmt "%Y-%m-%d_%H:%M:%S"
+set xlabel " "
+set ytics
+set title '<L1>'
+set grid xtics ytics
+set y2range [0:80]
+set yrange [0:80]
+set format y2 "%.1f"
+set multiplot
+set ylabel "Temperatur in °C"
+
+#FileLog 4:T\x3a|temperature:0:
+
+#plot \
+#  "< egrep 'Tvalue:' <IN>"\
+#     using 1:4 ls l2 axes x1y1 title '°C' with lines
+
+plot \
+   "< awk '/Tvalue*/ $4}' <IN>"\
+      using 1:4 ls l5 axes x1y1 title 'Vorlauf °C' with lines lw 2
+
+
+
+
+ #ls l0 = rot
+ #ls l1 = gr�n
+ #ls l2 = blau
+ #ls l3 = pink
+ #ls l4 = braun
+ #ls l5 = schwarz
+ #ls l6 = ocker
+ #ls l7 = grau
+ #ls l8 = gelb
+
+ #und das Gleiche f�r ausgef�llte Kurven:
+
+ #ls l0fill = rot
+ #ls l1fill = gr�n
+ #ls l2fill = blau
+ #ls l3fill = violett
+ #ls l4fill = gelb
+ #ls l5fill = t�rkis
+ #ls l6fill = grau  
+
+
